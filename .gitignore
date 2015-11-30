@@ -1,0 +1,16 @@
+
+# Index and hash files for srl data
+data/wikipedia/jupiter.index
+data/wikipedia/jupiter.simplesrl.md5
+data/wikipedia/paris.index
+data/wikipedia/paris.simplesrl.md5
+data/wikipedia/obama.index
+data/wikipedia/obama.simplesrl.md5
+
+# Exclude temporary files
+*~
+.*.swp
+*.pyc
+
+# IDE specific files
+.idea/
