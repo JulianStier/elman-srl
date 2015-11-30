@@ -1,0 +1,1231 @@
+Paris is the capital and most-populous city of France. 
+Paris 	SUB
+is 	PRED
+the capital and most-populous city 	OBJ
+of France. 	LOC
+
+Situated on the Seine River, in the north of the country, it is in the centre of the Île-de-France region, also known as the région parisienne, "Paris Region". 
+Situated 	PRED
+on the Seine River, 	OBJ
+in the north of the country, 	LOC 
+it 	SUB
+is 	PRED
+in the centre of the Île-de-France region, 	OBJ
+also known as the région parisienne, "Paris Region". 	REST
+
+The City of Paris has an area of 105.4 square kilometres and had a population of 2,241,346 within its city limits in 2014.
+The City of Paris 	SUB
+has 	PRED
+an area of 105.4 square kilometres 	OBJ
+and 	REST
+had 	PRED
+a population of 2,241,346 within its city limits 	OBJ
+in 2014.	TIME
+
+The Paris Region covers 12,012 square kilometres, and has its own regional council and president. 
+The Paris Region	SUB
+covers 	PRED
+12,012 square kilometres, 	OBJ
+and 	REST
+has 	PRED
+its own regional council and president.	OBJ
+
+It had a population of 12,005,077 as of January 2014, or 18.2 percent of the population of France.
+It 	SUB
+had 	PRED
+a population of 12,005,077 as	OBJ
+of January 2014, 	TIME
+or 	REST
+18.2 percent of the population of France.	OBJ
+
+
+
+Paris was founded in the 3rd century BC by a Celtic people called the Parisii, who gave the city its name.
+Paris	SUB
+was founded	PRED
+in the 3rd century BC	TIME
+by a Celtic people	OBJ
+called the Parisii, who gave the city its name.	REST
+
+By the 12th century, Paris was the largest city in the western world, a prosperous trading centre, and the home of the University of Paris, one of the first in Europe.
+By the 12th century,	TIME
+Paris	SUB
+was	PRED
+the largest city	OBJ
+in the western world,	LOC
+a prosperous trading centre, and the home of the University of Paris, one of the first in Europe.	REST
+
+In the 18th century, it was the centre stage for the French Revolution, and became an important centre of finance, commerce, fashion, science, and the arts, a position it still retains today.
+In the 18th century,	TIME
+it	SUB
+was	PRED
+the centre stage for the French Revolution,	OBJ
+and became an important centre of finance, commerce, fashion, science, and the arts, a position it still retains today.	REST
+
+
+
+The Paris Region had a GDP of €612 billion in 2012, accounting for 30.1 percent of the GDP of France, and ranking it as one of the wealthiest five regions in Europe.
+The Paris Region	SUB
+had	PRED
+a GDP of €612 billion	OBJ
+in 2012,	TIME
+accounting for 30.1 percent of the GDP of France, and ranking it as one of the wealthiest five regions in Europe.	REST
+
+It is the banking and financial centre of France, and contains the headquarters of 30 companies in the Fortune Global 500.
+It	SUB
+is	PRED
+the banking and financial centre of France,	OBJ
+and contains the headquarters of 30 companies in the Fortune Global 500.	REST
+
+
+
+Paris is the home of the most visited art museum in the world, the Louvre, as well as the Musée d'Orsay, noted for its collection of French Impressionist art, and the Musée National d'Art Moderne, a museum of modern and contemporary art.
+Paris	SUB
+is	PRED
+the home of the most visited art museum	OBJ
+in the world,	LOC
+the Louvre, as well as the Musée d'Orsay, noted for its collection of French Impressionist art, and the Musée National d'Art Moderne, a museum of modern and contemporary art.	REST
+
+The notable architectural landmarks of Paris include Notre Dame Cathedral.
+The notable architectural	CON
+landmarks	SUB
+of Paris	CON
+include	PRED
+Notre Dame Cathedral.	OBJ
+
+In 2014 Paris received 22.4 million visitors, making it one of the world's top tourist destinations.
+In 2014	TIME
+Paris	SUB
+received	PRED
+22.4 million visitors,	OBJ
+making it one of the world's top tourist destinations.	REST
+
+Paris is also known for its fashion, particularly the twice-yearly Paris Fashion Week, and for its haute cuisine, and three-star restaurants.
+Paris	SUB
+is also known for	PRED
+its fashion,	OBJ
+particularly the twice-yearly Paris Fashion Week, and for its haute cuisine, and three-star restaurants.	REST
+
+Most of France's major universities and grandes écoles are located in Paris, as are France's major newspapers, including Le Monde, Le Figaro, and Libération.
+Most of France's major	CON
+universities and grandes écoles	SUB
+are located	PRED
+in Paris,	LOC
+as are France's major newspapers, including Le Monde, Le Figaro, and Libération.	REST
+
+
+
+Paris is home to the association football club Paris Saint-Germain and the rugby union club Stade Français.
+Paris	SUB
+is home to	PRED
+the association football club Paris Saint-Germain	OBJ
+and	REST
+the rugby union club Stade Français.	OBJ
+
+The 80,000-seat Stade de France, built for the 1998 FIFA World Cup, is located in Saint-Denis.
+The 80,000-seat Stade de France,	SUB
+built for the 1998 FIFA World Cup,	REST
+is located	PRED
+in Saint-Denis.	LOC
+
+Paris hosts the annual French Open Grand Slam tennis tournament on the red clay of Roland Garros.
+Paris	SUB
+hosts	PRED
+the annual French Open Grand Slam tennis tournament	OBJ
+on the red clay of Roland Garros.	LOC
+
+Paris played host to the 1900 and 1924 Summer Olympics, the 1938 and 1998 FIFA World Cups, and the 2007 Rugby World Cup.
+Paris	SUB
+played host to	PRED
+the 1900 and 1924 Summer Olympics,	OBJ
+the 1938 and 1998 FIFA World Cups,	OBJ
+and	REST
+the 2007 Rugby World Cup.	OBJ
+
+
+
+The city is a major rail, highway, and air-transport hub, served by the two international airports Paris-Charles de Gaulle and Paris-Orly.
+The city	SUB
+is	PRED
+a major rail, highway, and air-transport hub,	OBJ
+served by the two international airports Paris-Charles de Gaulle and Paris-Orly.	REST
+
+Opened in 1900, the city's subway system, the Paris Métro, serves 9 million passengers daily.
+Opened in 1900,	TIME
+the city's subway system, the Paris Métro,	SUB
+serves	PRED
+9 million passengers	OBJ
+daily.	TIME
+
+Paris is the hub of the national road network, and is surrounded by three orbital roads.
+Paris	SUB
+is	PRED
+the hub of the national road network,	OBJ
+and	REST
+is surrounded by	PRED
+three orbital roads.	OBJ
+
+
+
+The name Paris is derived from its early inhabitants, the Celtic Parisii tribe.
+The name Paris	SUB
+is derived from	PRED
+its early inhabitants,	OBJ
+the Celtic Parisii tribe.	OBJ
+
+
+
+Paris is often referred to as The City of Light, both because of its leading role during the Age of Enlightenment, and more literally because Paris was one of the first European cities to adopt gas street lighting.
+Paris	SUB
+is often referred to as	PRED
+The City of Light,	OBJ
+both because of its leading role during the Age of Enlightenment, and more literally because Paris was one of the first European cities to adopt gas street lighting.	REST
+
+In the 1860s, the boulevards and streets of Paris were illuminated by 56,000 gas lamps.
+In the 1860s,	TIME
+the boulevards and streets of Paris	SUB
+were illuminated by	PRED
+56,000 gas lamps.	OBJ
+
+Since the late 19th century, Paris is also known as Panam(e) in French slang.
+Since the late 19th century,	TIME
+Paris	SUB
+is also known as	PRED
+Panam(e)	OBJ
+in French slang.	CON
+
+
+
+Inhabitants are known in English as Parisians and in French as Parisiens, pejoratively also called Parigots.
+Inhabitants	SUB
+are known	PRED
+in English	REST
+as	PRED
+Parisians	OBJ
+and in French as Parisiens, pejoratively also called Parigots.	REST
+
+
+
+The Parisii, a sub-tribe of the Celtic Senones, inhabited the Paris area from around the middle of the 3rd century BC.
+The Parisii,	SUB
+a sub-tribe of the Celtic Senones,	CON
+inhabited	PRED
+the Paris area	LOC
+from around the middle of the 3rd century BC.	TIME
+
+One of the area's major north-south trade routes crossed the Seine on the île de la Cité.
+One of the area's major north-south trade routes	SUB
+crossed	PRED
+the Seine	OBJ
+on the île de la Cité.	LOC
+
+This meeting place of land and water trade routes gradually became a town and an important trading centre.
+This meeting place of land and water trade routes	SUB
+gradually became	PRED
+a town	OBJ
+and	REST
+an important trading centre.	OBJ
+
+The Parisii traded with many river towns as far away as Spain, and minted their own coins for that purpose.
+The Parisii	SUB
+traded	PRED
+with many river towns	OBJ
+as far away as Spain,	LOC
+and minted their own coins for that purpose.	REST
+
+
+
+The Romans conquered the Paris basin in 52 BC and, after making the island a garrison camp, began extending their settlement in a more permanent way to Paris' Left Bank.
+The Romans	SUB
+conquered	PRED
+the Paris basin	OBJ
+in 52 BC	TIME
+and, after making the island a garrison camp, began extending their settlement in a more permanent way to Paris' Left Bank.	REST
+
+The Gallo-Roman town was originally called Lutetia.
+The Gallo-Roman town	SUB
+was originally called	PRED
+Lutetia.	OBJ
+
+It became a prosperous city with a forum, baths, temples, theatres, and an amphitheatre.
+It	SUB
+became	PRED
+a prosperous city	OBJ
+with a forum, baths, temples, theatres, and an amphitheatre.	CON
+
+
+
+By the end of the Roman Empire, the town was known simply as Parisius in Latin and Paris in French.
+By the end of the Roman Empire,	TIME
+the town	SUB
+was known simply as	PRED
+Parisius in Latin	OBJ
+and	REST
+Paris in French.	OBJ
+
+Christianity was introduced in the middle of the 3rd century AD.
+Christianity	SUB
+was introduced	PRED
+in the middle of the 3rd century AD.	TIME
+
+According to tradition, it was brought by Saint Denis, the first Bishop of Paris.
+According to tradition,	CON
+it	SUB
+was brought by	PRED
+Saint Denis,	OBJ
+the first Bishop of Paris.	CON
+
+When he refused to renounce his faith, he was beheaded on the hill which became known as the Mountain of Martyrs, eventually Montmartre.
+When	TIME
+he	SUB
+refused to renounce	PRED
+his faith,	OBJ
+he was beheaded on the hill which became known as the Mountain of Martyrs, eventually Montmartre.	REST
+
+His burial place became an important religious shrine.
+His burial place	SUB
+became	PRED
+an important religious shrine.	OBJ
+
+The Basilica of Saint-Denis was built there and became the burial place of the French Kings.
+The Basilica of Saint-Denis	SUB
+was built	PRED
+there	TIME
+and	REST
+became	PRED
+the burial place	OBJ
+of the French Kings.	CON
+
+
+
+Clovis the Frank, the first king of the Merovingian dynasty, made the city his capital from 508.
+Clovis the Frank,	SUB
+the first king of the Merovingian dynasty,	REST
+made	PRED
+the city	OBJ
+his capital	PRED
+from 508.	TIME
+
+Fortification of the Ile de France failed to prevent sacking by Vikings in 845 but Paris's strategic importance was established by successful defence in the Siege of Paris.
+Fortification of the Ile de France	SUB
+failed to prevent	PRED
+sacking by Vikings	OBJ
+in 845	TIME
+but Paris's strategic importance was established by successful defence in the Siege of Paris.	REST
+
+In 987 Hugh Capet, Count of Paris, Duke of the Franks was elected King of the Franks.
+In 987	TIME
+Hugh Capet,	SUB
+Count of Paris,	CON
+Duke of the Franks	CON
+was elected	PRED
+King of the Franks.	OBJ
+
+Under the rule of the Capetian kings, Paris gradually became the largest and most prosperous city in France.
+Under the rule of the Capetian kings,	CON
+Paris	SUB
+gradually became	PRED
+the largest and most prosperous city	OBJ
+in France.	LOC
+
+
+
+By the end of the 12th century, Paris had become the political, economic, religious, and cultural capital of France.
+By the end of the 12th century,	TIME
+Paris	SUB
+had become	PRED
+the political, economic, religious, and cultural capital of France.	OBJ
+
+The Île de la Cité was the site of the royal palace.
+The Île de la Cité	SUB
+was	PRED
+the site of the royal palace.	OBJ
+
+In 1163, during the reign of Louis VII, Maurice de Sully, bishop of Paris, undertook the construction of the Notre Dame Cathedral at its eastern extremity.
+In 1163,	TIME
+during the reign of Louis VII,	TIME
+Maurice de Sully,	SUB
+bishop of Paris,	CON
+undertook	PRED
+the construction of the Notre Dame Cathedral	OBJ
+at its eastern extremity.	LOC
+
+The Left Bank was the site of the University of Paris, a corporation of students and teachers formed in the mid-12th century to train scholars first in theology, and later in canon law, medicine and the arts.
+The Left Bank	SUB
+was	PRED
+the site of the University of Paris,	OBJ
+a corporation of students and teachers formed in the mid-12th century to train scholars first in theology, and later in canon law, medicine and the arts.	REST
+
+The Right Bank became the centre of commerce and finance.
+The Right Bank	SUB
+became	PRED
+the centre of commerce and finance.	OBJ
+
+The merchants who controlled the trade on the river formed a league and quickly became a powerful force.
+The merchants	SUB
+who controlled the trade	CON
+on the river	LOC
+formed	PRED
+a league	OBJ
+and	REST
+quickly became	PRED
+a powerful force.	OBJ
+
+Between 1190 and 1202, Philip Augustus built the massive fortress of the Louvre, continued the construction of Notre Dame, rebuilt the two bridges, began paving Paris' main thoroughfares, and the construction of a fortified wall around the city.
+Between 1190 and 1202,	TIME
+Philip Augustus	SUB
+built	PRED
+the massive fortress of the Louvre,	OBJ
+continued the construction of Notre Dame, rebuilt the two bridges, began paving Paris' main thoroughfares, and the construction of a fortified wall around the city.	REST
+
+
+
+During the Hundred Years' War, The army of the Duke of Burgundy and a force of about two hundred English soldiers occupied Paris from May 1420 until 1436.
+During the Hundred Years' War,	TIME
+The army of the Duke of Burgundy	SUB
+and	REST
+a force of about two hundred English soldiers	SUB
+occupied	PRED
+Paris	OBJ
+from May 1420 until 1436.	TIME
+
+They repelled an attempt to liberate the city by Joan of Arc in 1429.
+They	SUB
+repelled	PRED
+an attempt	OBJ
+to liberate the city by Joan of Arc	CON
+in 1429.	TIME
+
+A century later, during the French Wars of Religion, Paris was a stronghold of the Catholic League.
+A century later,	TIME
+during the French Wars of Religion,	TIME
+Paris	SUB
+was	PRED
+a stronghold of the Catholic League.	OBJ
+
+On 24 August 1572, Paris was the site of the St. Bartholomew's Day massacre, when thousands of French Protestants were killed.
+On 24 August 1572,	TIME
+Paris	SUB
+was	PRED
+the site of the St. Bartholomew's Day massacre,	OBJ
+when thousands of French Protestants were killed.	REST
+
+The last of these wars, the eighth one, ended in 1594, after Henri IV had converted to Catholicism and was finally able to enter Paris as king.
+The last of these wars,	SUB
+the eighth one,	CON
+ended in	PRED
+1594,	TIME
+after Henri IV had converted to Catholicism and was finally able to enter Paris as king.	REST
+
+The city had been neglected for decades.
+The city	SUB
+had been neglected	PRED
+for decades.	TIME
+
+By the time of his assassination in 1610, Henry IV had rebuilt the Pont Neuf, the first Paris bridge with sidewalks and not lined with buildings, linked with a new wing the Louvre to the Tuileries Palace, and created the first Paris residential square, the Place Royale, now Place des Vosges.
+By the time of his assassination in 1610,	TIME
+Henry IV	SUB
+had rebuilt	PRED
+the Pont Neuf,	OBJ
+the first Paris bridge with sidewalks and not lined with buildings, linked with a new wing the Louvre to the Tuileries Palace, and created the first Paris residential square, the Place Royale, now Place des Vosges.	REST
+
+
+
+In the 17th century, Cardinal Richelieu, chief minister of Louis XIII, was determined to make Paris the most beautiful city in Europe.
+In the 17th century,	TIME
+Cardinal Richelieu, chief minister of Louis XIII,	SUB
+was determined to make	PRED
+Paris	OBJ
+the most beautiful city	REST
+in Europe.	LOC
+
+He built five new bridges, a new chapel for the College of Sorbonne, and a palace for himself, the Palais Cardinal, which he bequeathed to Louis XIII, and which became, after his own death in 1642, the Palais-Royal.
+He 	SUB
+built 	PRED 
+five new bridges,	OBJ 
+a new chapel for the College	OBJ
+of Sorbonne, and 	REST
+a palace for himself, the Palais Cardinal, 	OBJ
+which 	REST
+he 	SUB
+bequeathed to 	PRED
+Louis XIII, and 	OBJ
+which 	SUB
+became, 	PRED
+after his own death in 1642, 	TIME
+the Palais-Royal.	REST
+
+
+
+Louis XIV distrusted the Parisians and moved his court to Versailles in 1682, but his reign also saw an unprecedented flourishing of the arts and sciences in Paris.
+Louis XIV 	SUB
+distrusted 	PRED
+the Parisians 	OBJ
+and 	REST
+moved 	PRED
+his court 	OBJ
+to Versailles	LOC
+in 1682, 	TIME
+but 	REST
+his reign 	SUB
+also 	REST
+saw 	PRED
+an unprecedented flourishing 	OBJ
+of the arts and sciences 	REST
+in Paris.	LOC
+
+
+The Comédie-Française, the Academy of Painting, and the French Academy of Sciences were founded and made their headquarters in the city.
+The Comédie-Française, the Academy of Painting, and the French Academy of Sciences 	SUB
+were founded	PRED
+and 	REST
+made 	PRED
+their headquarters 	OBJ
+in the city.	LOC
+
+
+To show that the city was safe against attack, he had the city walls demolished, replacing them with Grands Boulevards.
+To show 	REST
+that 	REST
+the city 	SUB
+was 	PRED
+safe against attack, 	OBJ
+he 	SUB
+had 	PRED
+the city walls 	OBJ
+demolished, 	PRED
+replacing 	PRED
+them 	OBJ
+with Grands Boulevards.	REST
+
+
+To leave monuments to his reign, he built the Collège des Quatre-Nations, Place Vendôme, Place des Victoires, and began Les Invalides.
+To leave 	REST
+monuments 	REST
+to his reign, 	REST
+he 	SUB
+built 	PRED
+the Collège des Quatre-Nations, Place Vendôme, Place des Victoires, 	OBJ
+and 	REST
+began 	PRED
+Les Invalides.	OBJ
+
+
+
+Between 1640 and 1789, Paris grew in population from 400,000 to 600,000.
+Between 1640 and 1789, 	TIME
+Paris 	SUB
+grew 	PRED
+in population 	OBJ
+from 400,000 to 600,000.	REST
+
+
+A new boulevard, the Champs-Élysées, extended the city west to Étoile, while the working-class neighbourhood of the Faubourg Saint-Antoine on the eastern site of the city grew more and more crowded with poor migrants from other regions of France.
+A new boulevard, the Champs-Élysées, 	SUB
+extended 	PRED
+the city 	OBJ
+west to Étoile,	LOC 
+while 	REST
+the working-class neighbourhood 	SUB
+of the Faubourg Saint-Antoine 	REST
+on the eastern site of the city 	LOC
+grew 	PRED
+more and more crowded with poor migrants from other regions	REST 
+of France.	LOC
+
+
+
+Paris was the centre of an explosion of philosophic and scientific activity known as the Age of Enlightenment.
+Paris 	SUB
+was 	PRED
+the centre of an explosion 	OBJ
+of philosophic and scientific activity known as the Age of Enlightenment.	REST
+
+
+Diderot and d'Alembert published their Encyclopédie in 1751-52, and the Montgolfier Brothers launched the first manned flight in a hot-air balloon on 21 November 1783, from the gardens of the Château de la Muette.
+Diderot and d'Alembert 	SUB
+published 	PRED
+their Encyclopédie 	OBJ
+in 1751-52, 	TIME
+and 	REST
+the Montgolfier Brothers 	SUB
+launched 	PRED
+the first manned flight	OBJ 
+in a hot-air balloon 	LOC
+on 21 November 1783, 	TIME
+from the gardens of the Château de la Muette.	LOC
+
+
+
+Paris was the financial capital of continental Europe, the primary European centre of book publishing, fashion, and the manufacture of fine furniture and luxury goods.
+Paris 	SUB	
+was 	PRED
+the financial capital 	OBJ
+of continental Europe, 	LOC
+the primary European centre of book publishing, fashion, and the manufacture of fine furniture and luxury goods.	OBJ
+
+
+
+In the summer of 1789, Paris became the centre stage of the French Revolution.
+In the summer of 1789, 	TIME
+Paris 	SUB
+became 	PRED
+the centre stage 	OBJ
+of the French Revolution.	REST
+
+
+On 14 July, a mob seized the arsenal at the Invalides, acquiring thousands of guns, and stormed the Bastille, a symbol of royal authority.
+On 14 July, 	TIME
+a mob 	SUB
+seized 	PRED
+the arsenal at the Invalides, 	OBJ
+acquiring thousands of guns, 	REST
+and 	REST
+stormed 	PRED
+the Bastille, 	OBJ
+a symbol of royal authority.	REST
+
+
+The first independent Paris Commune, or city council, met in the Hôtel de Ville and, on 15 July, elected a Mayor, the astronomer Jean Sylvain Bailly.
+The first independent Paris Commune, 	SUB
+or city council, 	REST
+met 	PRED
+in the Hôtel de Ville 	LOC
+and, 	REST
+on 15 July, 	TIME
+elected 	PRED
+a Mayor, 	OBJ
+the astronomer Jean Sylvain Bailly.	REST
+
+
+
+
+Louis XVI and the royal family were brought to Paris and made virtual prisoners within the Tuileries Palace.
+Louis XVI and the royal family 	SUB
+were brought 	PRED
+to Paris 	LOC
+and 	REST
+made 	PRED
+virtual prisoners 	OBJ
+within the Tuileries Palace.	REST
+
+
+In 1793, as the revolution turned more and more radical, the king, queen, and the mayor were guillotined, along with more than 16,000 others (throughout France), during the Reign of Terror.
+In 1793, 	TIME
+as 	REST
+the revolution 	SUB
+turned 	PRED
+more and more	REST 
+radical, 	OBJ
+the king, queen, and the mayor 	SUB
+were guillotined, 	PRED
+along with more than 16,000 others (throughout France), 	REST
+during the Reign of Terror.	TIME
+
+
+The property of the aristocracy and the church was nationalised, and the city's churches were closed, sold or demolished.
+The property 	SUB
+of the aristocracy 	REST
+and 	REST
+the church 	SUB
+was nationalised, 	PRED
+and 	REST
+the city's churches 	SUB
+were 	PRED
+closed, sold or demolished. 	REST
+
+
+A succession of revolutionary factions ruled Paris until 9 November 1799 (coup d'état du 18 brumaire), when Napoléon Bonaparte seized power as First Consul.
+A succession 	SUB
+of revolutionary factions 	REST 
+ruled 	PRED
+Paris 	OBJ
+until 9 November 1799	TIME
+(coup d'état du 18 brumaire), 	REST
+when 	REST
+Napoléon Bonaparte 	SUB
+seized 	PRED
+power 	OBJ
+as First Consul.	REST
+
+
+
+The population of Paris had dropped by 100,000 during the Revolution, but between 1799 and 1815, it surged with 160,000 new residents, reaching 660,000.
+The population of Paris	SUB
+had dropped	PRED
+by 100,000	OBJ
+during the Revolution,	TIME
+but between 1799 and 1815, it surged with 160,000 new residents, reaching 660,000.	REST
+
+Bonaparte replaced the elected government of Paris with a prefect reporting only to him.
+Bonaparte	SUB
+replaced	PRED
+the elected government of Paris	OBJ
+with a prefect reporting only to him.	REST
+
+He began erecting monuments to military glory, including the Arc de Triomphe, and improved the neglected infrastructure of the city with new fountains, the Canal de l'Ourcq, Père Lachaise Cemetery and the city's first metal bridge, the Pont des Arts.
+He	SUB
+began erecting	PRED
+monuments to military glory,	OBJ
+including the Arc de Triomphe, and improved the neglected infrastructure of the city with new fountains, the Canal de l'Ourcq, Père Lachaise Cemetery and the city's first metal bridge, the Pont des Arts.	REST
+
+
+
+During the Restoration, the bridges and squares of Paris were returned to their pre-Revolution names, but the July Revolution of 1830 in Paris, (commemorated by the July Column on Place de la Bastille), brought a constitutional monarch, Louis Philippe I, to power.
+During the Restoration,	TIME
+the bridges and squares of Paris	SUB
+were returned to	PRED
+their pre-Revolution names,	OBJ
+but the July Revolution of 1830 in Paris, (commemorated by the July Column on Place de la Bastille), brought a constitutional monarch, Louis Philippe I, to power.	REST
+
+The first railway line to Paris opened in 1837, beginning a new period of massive migration from the provinces to the city.
+The first railway line	SUB
+to Paris	LOC
+opened	PRED
+in 1837,	OBJ
+beginning a new period of massive migration from the provinces to the city.	REST
+
+
+
+Louis-Philippe was overthrown by a popular uprising in the streets of Paris in 1848.
+Louis-Philippe	SUB
+was overthrown by	PRED
+a popular uprising	OBJ
+in the streets of Paris	LOC
+in 1848.	TIME
+
+His successor, Napoleon III, and the newly appointed prefect of the Seine, Georges-Eugène Haussmann, launched a gigantic public works project to build wide new boulevards, a new opera house, a central market, new aqueducts, sewers, and parks, including the Bois de Boulogne and Bois de Vincennes.
+His successor,	CON
+Napoleon III,	SUB
+and the newly appointed prefect of the Seine,	CON
+Georges-Eugène Haussmann,	SUB
+launched	PRED
+a gigantic public works project	OBJ
+to build wide new boulevards, a new opera house, a central market, new aqueducts, sewers, and parks, including the Bois de Boulogne and Bois de Vincennes.	REST
+
+In 1860, Napoleon III also annexed the surrounding towns and created eight new arrondissements, expanding Paris to its current limits.
+In 1860,	TIME
+Napoleon III	SUB
+also annexed	PRED
+the surrounding towns	OBJ
+and created eight new arrondissements, expanding Paris to its current limits.	REST
+
+
+
+During the Franco-Prussian War (1870–1871), Paris was besieged by the Prussian army.
+During the Franco-Prussian War (1870–1871),	TIME
+Paris	SUB
+was besieged by	PRED
+the Prussian army.	OBJ
+
+After months of blockade, hunger, and then bombardment by the Prussians, the city was forced to surrender on 28 January 1871.
+After months of blockade, hunger, and then bombardment by the Prussians,	TIME
+the city	SUB
+was forced to surrender on	PRED
+28 January 1871.	TIME
+
+On 28 March, a revolutionary government called the Paris Commune seized power in Paris.
+On 28 March,	TIME
+a revolutionary government	SUB
+called the Paris Commune	CON
+seized	PRED
+power in Paris.	OBJ
+
+The Commune held power for two months, until it was harshly suppressed by the French army during the "Bloody Week" at the end of May 1871.
+The Commune	SUB
+held power for	PRED
+two months,	TIME
+until it was harshly suppressed by the French army during the "Bloody Week" at the end of May 1871.	REST
+
+
+
+Late in the 19th century, Paris hosted two major international expositions:
+Late in the 19th century,	TIME
+Paris	SUB
+hosted	PRED
+two major international expositions:	OBJ
+
+The 1889 Universal Exposition, was held to mark the centennial of the French Revolution and featured the new Eiffel Tower.
+The 1889 Universal Exposition,	SUB
+was held to mark	PRED
+the centennial of the French Revolution	OBJ
+and featured the new Eiffel Tower.	REST
+
+And the 1900 Universal Exposition, which gave Paris the Pont Alexandre III, the Grand Palais, the Petit Palais and the first Paris Métro line.
+And the 1900 Universal Exposition,	SUB
+which gave Paris	PRED
+the Pont Alexandre III,	OBJ
+the Grand Palais, the Petit Palais and the first Paris Métro line.	REST
+
+Paris became the laboratory of Naturalism (Émile Zola) and Symbolism (Charles Baudelaire and Paul Verlaine), and of Impressionism in art (Courbet, Manet, Monet, Renoir.)
+Paris	SUB
+became	PRED
+the laboratory of Naturalism	OBJ
+(Émile Zola) and Symbolism (Charles Baudelaire and Paul Verlaine), and of Impressionism in art (Courbet, Manet, Monet, Renoir.)	REST
+
+
+
+By 1901, the population of Paris had grown to 2,715,000.
+By 1901,	TIME
+the population of Paris	SUB
+had grown to	PRED
+2,715,000.	OBJ
+
+At the beginning of the century, artists from around the world, including Picasso, Modigliani and Matisse made Paris their home;
+At the beginning of the century,	TIME
+artists from around the world,	SUB
+including Picasso, Modigliani and Matisse	CON
+made	PRED
+Paris their home;	OBJ
+
+It was the birthplace of Fauvism, Cubism and abstract art, and authors such as Marcel Proust were exploring new approaches to literature.
+It	SUB
+was	PRED
+the birthplace of Fauvism, Cubism and abstract art,	OBJ
+and authors such as Marcel Proust were exploring new approaches to literature.	REST
+
+
+
+During the First World War, Paris sometimes found itself on the front line;
+During the First World War,	TIME
+Paris	SUB
+sometimes found itself on	PRED
+the front line;	OBJ
+
+600 to 1,000 Paris taxis played a small but highly important symbolic role in transporting 6,000 soldiers to the front line at the First Battle of the Marne.
+600 to 1,000 Paris taxis	SUB
+played	PRED
+a small but highly important symbolic role	OBJ
+in transporting 6,000 soldiers	CON
+to the front line at the First Battle of the Marne.	LOC
+
+The city was also bombed by Zeppelins and shelled by German long-range guns.
+The city	SUB
+was also bombed by	PRED
+Zeppelins	OBJ
+and shelled by German long-range guns.	REST
+
+In the years after the war, known as Les Années Folles, Paris continued to be a mecca for writers, musicians and artists from around the world, including Ernest Hemingway, Igor Stravinsky, Josephine Baker, Sidney Bechet and the surrealist Salvador Dalí.
+In the years after the war,	TIME
+known as Les Années Folles,	CON
+Paris	SUB
+continued to be	PRED
+a mecca for writers, musicians and artists	OBJ
+from around the world, including Ernest Hemingway, Igor Stravinsky, Josephine Baker, Sidney Bechet and the surrealist Salvador Dalí.	REST
+
+
+
+On 14 June 1940, the German army marched into Paris, which had been declared an "open city".
+On 14 June 1940,	TIME
+the German army	SUB
+marched into	PRED
+Paris,	LOC
+which had been declared an "open city".	REST
+
+On 16–17 July 1942, following German orders, the French police and gendarmes arrested 12,884 Jews, including 4,115 children, and confined them during five days at the Vel d'Hiv (Vélodrome d'Hiver), from which they were transported by train to the extermination camp at Auschwitz.
+On 16–17 July 1942,	TIME
+following German orders,	CON
+the French police and gendarmes	SUB
+arrested	PRED
+12,884 Jews,	OBJ
+including 4,115 children, and confined them during five days at the Vel d'Hiv (Vélodrome d'Hiver), from which they were transported by train to the extermination camp at Auschwitz.	REST
+
+None of the children came back.
+None	SUB
+of the children	CON
+came back.	PRED
+
+On 25 August 1944, the city was liberated by the French 2nd Armoured Division and the 4th Infantry Division of the United States Army.
+On 25 August 1944,	TIME
+the city	SUB
+was liberated by	PRED
+the French 2nd Armoured Division and the 4th Infantry Division of the United States Army.	OBJ
+
+General Charles de Gaulle led a huge and emotional crowd down the Champs Élysées towards Notre Dame de Paris, and made a rousing speech from the Hôtel de Ville.
+General Charles de Gaulle	SUB
+led	PRED
+a huge and emotional crowd	OBJ
+down the Champs Élysées towards Notre Dame de Paris,	LOC
+and made a rousing speech from the Hôtel de Ville.	REST
+
+
+
+In the 1950s and the 1960s, Paris became one front of the Algerian War for independence;
+In the 1950s and the 1960s,	TIME
+Paris	SUB
+became	PRED
+one front of the Algerian War for independence;	OBJ
+
+In August 1961, the pro-independence FLN targeted and killed 11 Paris policemen, leading to the imposition of a curfew on Muslims of Algeria.
+In August 1961,	TIME
+the pro-independence FLN	SUB
+targeted and killed	PRED
+11 Paris policemen,	OBJ
+leading to the imposition of a curfew on Muslims of Algeria.	REST
+
+On 17 October 1961, an unauthorised but peaceful protest demonstration of Algerians against the curfew led to violent confrontations between the police and demonstrators, in which at least 40 people were killed, including some thrown into the Seine.
+On 17 October 1961,	TIME
+an unauthorised but peaceful protest demonstration	SUB
+of Algerians against the curfew	CON
+led to	PRED
+violent confrontations between the police and demonstrators,	OBJ
+in which at least 40 people were killed, including some thrown into the Seine.	REST
+
+The anti-independence Organisation de l'armée secrète, for their part, carried out a series of bombings in Paris throughout 1961 and 1962.
+The anti-independence Organisation de l'armée secrète,	SUB
+for their part,	REST
+carried out	PRED
+a series of bombings	OBJ
+in Paris	LOC
+throughout 1961 and 1962.	TIME
+
+
+
+In May 1968, protesting students occupied the Sorbonne and put up barricades in the Latin Quarter.
+In May 1968,	TIME
+protesting students	SUB
+occupied	PRED
+the Sorbonne	OBJ
+and put up barricades in the Latin Quarter.	REST
+
+Thousands of Parisian blue-collar workers joined the students, and the movement grew into a two-week general strike.
+Thousands of Parisian blue-collar workers	SUB
+joined	PRED
+the students,	OBJ
+and the movement grew into a two-week general strike.	REST
+
+Supporters of the government won the June elections by a large majority.
+Supporters of the government	SUB
+won	PRED
+the June elections	OBJ
+by a large majority.	CON
+
+The May 1968 events in France resulted in the breakup of the University of Paris into 13 independent campuses.
+The May 1968 events	SUB
+in France	LOC
+resulted in	PRED
+the breakup of the University of Paris	OBJ
+into 13 independent campuses.	CON
+
+
+
+In 1975, the National Assembly changed the status of Paris to that of other French cities and, on 25 March 1977, Jacques Chirac became the first elected mayor of Paris since 1793.
+In 1975,	TIME
+the National Assembly	SUB
+changed	PRED
+the status of Paris	OBJ
+to that of other French cities and, on 25 March 1977, Jacques Chirac became the first elected mayor of Paris since 1793.	REST
+
+The Tour Maine Montparnasse, the tallest building in the city at 57 storeys and 210 metres high, was built between 1969 and 1973.
+The Tour Maine Montparnasse,	SUB
+the tallest building in the city at 57 storeys and 210 metres high,	CON
+was built between	PRED
+1969 and 1973.	TIME
+
+It was highly controversial, and it remains the city's only skyscraper.
+It	SUB
+was	PRED
+highly controversial,	OBJ
+and it remains the city's only skyscraper.	REST
+
+
+
+The population of Paris dropped from 2,850,000 in 1954 to 2,152,000 in 1990, as middle-class families moved to the suburbs.
+The population of Paris	SUB
+dropped from	PRED
+2,850,000	OBJ
+in 1954	TIME
+to	PRED
+2,152,000	OBJ
+in 1990,	TIME
+as middle-class families moved to the suburbs.	REST
+
+A suburban railway network, the RER, was built to complement the Métro, and the Périphérique expressway encircling the city, was completed in 1973.
+A suburban railway network,	SUB
+the RER,	CON
+was built to complement	PRED
+the Métro,	OBJ
+and the Périphérique expressway encircling the city, was completed in 1973.	REST
+
+
+
+Each president of the postwar Fifth Republic wanted to leave his own monument in Paris;
+
+President Georges Pompidou started the Centre Georges Pompidou, Valéry Giscard d'Estaing began the Musée d'Orsay;
+
+President François Mitterrand, in power for 14 years, built the Opéra Bastille (1985-1989), the Bibliothèque nationale de France (1996), the Arche de la Défense (1985-1989), and the Louvre Pyramid with its underground courtyard (1983-1989).
+
+
+
+In the early 21st century, the population of Paris began to increase slowly again, as more young people moved into the city.
+
+It reached 2.25 million in 2011.
+
+In March 2001, Bertrand Delanoë became the first socialist mayor of Paris.
+
+In 2007, in an effort to reduce car traffic in the city, he introduced the Vélib', a system which rents bicycles for the use of local residents and visitors.
+
+Bertrand Delanoë also transformed a section of the highway along the left bank of the Seine into an urban promenade and park, the Promenade des Berges de la Seine, which he inaugurated in June 2013.
+
+
+
+In 2007, President Nicolas Sarkozy launched the Grand Paris project, to integrate Paris more closely with the towns in the region around it.
+
+After much modification, the new area, named the Metropolis of Grand Paris, with a population of 6.7 million, is scheduled for creation on 1 January 2016.
+
+
+
+In 2011, the City of Paris and the national government approved the plans for the Grand Paris Express, totalling 205 kilometres of automated metro lines to connect Paris, the innermost three departments around Paris, airports and high-speed rail (TGV) stations, at an estimated cost of €35 billion.
+
+The system is scheduled to be completed by 2030.
+
+
+
+On 5 April 2014, Anne Hidalgo, a socialist, was elected the first female mayor of Paris.
+
+
+
+
+On 7 January 2015, two Muslim extremists, both French citizens raised in the Paris region, attacked the Paris headquarters of Charlie Hebdo, a controversial satirical magazine that had poked ridicule at Mohammed, in what became known as the Charlie Hebdo shooting.
+
+They killed thirteen persons, including five prominent cartoonists and the director of the magazine and three police officers.
+
+On 9 January, a third terrorist killed four hostages at a Jewish grocery store at Porte de Vincennes.
+
+The three terrorists were killed by the police the same day.
+
+Together, these were the most deadly terrorist attacks in Paris since 1961.
+
+On 11 January, an estimated 1.5 million persons marched in Paris to show solidarity against terrorism and in defence of freedom of speech.
+
+
+
+Paris is located in northern central France.
+
+By road it is 450 kilometres south-east of London, 287 kilometres south of Calais, 305 kilometres south-west of Brussels, 774 kilometres north of Marseille, 385 kilometres north-east of Nantes, and 135 kilometres south-east of Rouen.
+
+Paris is located in the north-bending arc of the river Seine and includes two islands, the Île Saint-Louis and the larger Île de la Cité, which form the oldest part of the city.
+
+The river's mouth on the English Channel is about 233 mi downstream of the city, established around 7600 BC.
+
+The city is spread widely on both banks of the river.
+
+Overall, the city is relatively flat, and the lowest point is 35 m above sea level.
+
+Paris has several prominent hills, the highest of which is Montmartre at 130 m.
+
+Montmartre gained its name from the martyrdom of Saint Denis, first bishop of Paris, atop the Mons Martyrum, "Martyr's mound", in 250.
+
+
+
+Excluding the outlying parks of Bois de Boulogne and Bois de Vincennes, Paris covers an oval measuring about 87 km2 in area, enclosed by the 35 km ring road, the Boulevard Périphérique.
+
+The city's last major annexation of outlying territories in 1860 not only gave it its modern form but also created the 20 clockwise-spiralling arrondissements.
+
+From the 1860 area of 78 km2 (30 sq mi), the city limits were expanded marginally to 86.9 km2 in the 1920s.
+
+In 1929, the Bois de Boulogne and Bois de Vincennes forest parks were officially annexed to the city, bringing its area to about 105 km2.
+
+The metropolitan area of the city is 2,300 km2.
+
+
+
+Paris has a typical Western European oceanic climate which is affected by the North Atlantic Current.
+
+The overall climate throughout the year is mild and moderately wet.
+
+Summer days are usually warm and pleasant with average temperatures hovering between 15 and 25 °C, and a fair amount of sunshine.
+
+Each year, however, there are a few days where the temperature rises above 32 °C.
+
+Some years have even witnessed long periods of harsh summer weather, such as the heat wave of 2003 when temperatures exceeded 30 °C for weeks, surged up to 40 °C on some days and seldom cooled down at night.
+
+More recently, the average temperature for July 2011 was 17.6 °C, with an average minimum temperature of 12.9 °C and an average maximum temperature of 23.7 °C.
+
+
+
+Spring and autumn have, on average, mild days and fresh nights but are changing and unstable.
+
+Surprisingly warm or cool weather occurs frequently in both seasons.
+
+In winter, sunshine is scarce; days are cold but generally above freezing with temperatures around 7 °C.
+
+Light night frosts are however quite common, but the temperature will dip below −5 °C (23 °F) for only a few days a year.
+
+Snow falls every year, but rarely stays on the ground.
+
+The city sometimes sees light snow or flurries with or without accumulation.
+
+
+
+Paris has an average annual precipitation of 652 mm, and experiences light rainfall distributed evenly throughout the year.
+
+However the city is known for intermittent abrupt heavy showers.
+
+The highest recorded temperature is 40.4 °C on 28 July 1948, and the lowest is a −23.9 °C on 10 December 1879.
+
+
+
+For almost all of its long history, except for a few brief periods, Paris was governed directly by representatives of the king, emperor, or president of France.
+
+The city was not granted municipal autonomy by the National Assembly until 1974.
+
+The first modern elected mayor of Paris was Jacques Chirac, elected 20 March 1977, becoming the city's first mayor since 1793.
+
+The current mayor is Anne Hidalgo, a socialist, elected 5 April 2014.
+
+
+
+The mayor of Paris is not elected directly by Paris voters;
+
+The voters of each arrondissement elect the Conseil de Paris, composed of 163 members.
+
+Each arrondissement has a number of members depending upon its population, from 10 members for each of the least-populated arrondissements to 36 members for the most populated.
+
+The elected council members select the mayor.
+
+Sometimes the candidate who receives the most votes city-wide is not selected if the other candidate has won the support of the majority of council members.
+
+Mayor Bertrand Delanoë (2001-2014) was elected by only a minority of city voters, but a majority of council members.
+
+Once elected, the council plays a largely passive role in the city government;
+
+It meets only once a month.
+
+The current council is divided between a coalition of the left of 91 members, including the socialists, communists, greens, and extreme left;
+
+And 71 members for the centre right, plus a few members from smaller parties.
+
+
+
+Each of Paris' 20 arrondissements has its own town hall and a directly elected council, which, in turn, elects an arrondissement mayor.
+
+The council of each arrondissement is composed of members of the Conseil de Paris and also members who serve only on the council of the arrondissement.
+
+The number of deputy mayors in each arrondissement varies depending upon its population.
+
+There are a total of 20 arrondissement mayors and 120 deputy mayors.
+
+
+
+The budget of the city for 2013 was €7.6 billion, of which 5.4 billion went for city administration, while €2.2 billion went for investment.
+
+The largest part of the budget went for public housing and urbanism projects;
+
+15 percent for roads and transport;
+
+8 percent for schools;
+
+5 percent for parks and gardens; and 4 percent for culture.
+
+The main source of income for the city is direct taxes (35 percent), supplemented by a 13-percent real estate tax; 19 percent of the budget comes in a transfer from the national government.
+
+
+
+The number of city employees, or agents, grew from 40,000 in 2000 to 73,000 in 2013.
+
+The city debt grew from €1.6 billion in 2000 to 3.1 billion in 2012, with a debt of €3.65 billion expected for 2014.
+
+As a result of the growing debt, the bond rating of the city was lowered from AAA to AA+ in both 2012 and 2013.
+
+In September 2014, Mayor Hidalgo announced that the city would have budget shortfall of €400 million, largely because of a cut in support from the national government.
+
+
+
+The Region of Île de France, including Paris and its surrounding communities, is governed by the Regional Council, which has its headquarters in the 7th arrondissement of Paris.
+
+It is composed of 209 members representing the different communes within the region, with a majority belonging to the socialists and their allies.
+
+The current president of the council is Jean-Paul Huchon, a socialist.
+
+The next elections for the Regional council will take place 6 and 13 December 2015.
+
+
+
+In 2007, President Sarkozy proposed the creation of a Grand Paris, a new metropolitan area composed of the city of Paris and the towns in the neighbouring three departments.
+
+After much discussion and modification, in 2011 a plan was approved to create the Métropole du Grand Paris, or Metropolis of Greater Paris, which will have an area of 762 square kilometres and a population of 6.7 million people.
+
+It will also have its own automated metro system, the Grand Paris Express, with 205 kilometres of track and 72 new stations, linking Paris, the suburbs, the airports and the TGV stations.
+
+The new Metropolis is scheduled to come into existence on 1 January 2016.
+
+
+
+As the capital of France, Paris is the seat of France's national government.
+
+For the executive, the two chief officers each have their own official residences, which also serve as their offices.
+
+The President of the French Republic resides at the Élysée Palace in the 8th arrondissement, while the Prime Minister's seat is at the Hôtel Matignon in the 7th arrondissement.
+
+Government ministries are located in various parts of the city; many are located in the 7th arrondissement, near the Matignon.
+
+
+
+The two houses of the French Parliament are located on the Left Bank.
+
+The upper house, the Senate, meets in the Palais du Luxembourg in the 6th arrondissement, while the more important lower house, the Assemblée Nationale, meets in the Palais Bourbon in the 7th arrondissement.
+
+The President of the Senate, the second-highest public official in France (the President of the Republic being the sole superior), resides in the "Petit Luxembourg", a smaller palace annex to the Palais du Luxembourg.
+
+
+
+France's highest courts are located in Paris.
+
+The Court of Cassation, the highest court in the judicial order, which reviews criminal and civil cases, is located in the Palais de Justice on the Île de la Cité, while the Conseil d'État, which provides legal advice to the executive and acts as the highest court in the administrative order, judging litigation against public bodies, is located in the Palais-Royal in the 1st arrondissement.
+
+The Constitutional Council, an advisory body with ultimate authority on the constitutionality of laws and government decrees, also meets in the Montpensier wing of the Palais Royal.
+
+
+
+Paris and its region host the headquarters of several international organisations including UNESCO, the Organisation for Economic Co-operation and Development, the International Chamber of Commerce, the Paris Club, the European Space Agency, the International Energy Agency, the Organisation internationale de la Francophonie, the European Union Institute for Security Studies, the International Bureau of Weights and Measures, the International Exhibition Bureau and the International Federation for Human Rights.
+
+
+
+Following the motto "Only Paris is worthy of Rome; only Rome is worthy of Paris";
+
+The only sister city of Paris is Rome, although Paris has partnership agreements with many other cities around the world.
+
+
+
+The security of Paris is mainly the responsibility of the Prefecture of Police of Paris, a subdivision of the Ministry of the Interior of France.
+
+It supervises the units of the National Police who patrol the city and the three neighbouring departments.
+
+It is also responsible for providing emergency services, including the Paris Fire Brigade.
+
+Its headquarters is on Place Louis Lépine on the Île de la Cité.
+
+There are 30,200 officers under the prefecture, and a fleet of more than 6,000 vehicles, including police cars, motorcycles, fire trucks, boats and helicopters.
+
+In addition to traditional police duties, the local police monitors the number of discount sales held by large stores (no more than two a year are allowed) and verify that, during summer holidays, at least one bakery is open in every neighbourhood.
+
+The national police has its own special unit for riot control and crowd control and security of public buildings, called the Compagnies Républicaines de Sécurité (CRS), a unit formed in 1944 right after the liberation of France.
+
+Vans of CRS agents are frequently seen in the centre of the city when there are demonstrations and public events.
+
+
+
+The police are supported by the National Gendarmerie, a branch of the French Armed Forces, though their police operations now are supervised by the Ministry of the Interior.
+
+The traditional kepis of the gendarmes were replaced in 2002 with caps, and the force modernised, though they still wear kepis for ceremonial occasions.
+
+
+
+Crime in Paris is similar to that in most large cities.
+
+Violent crime is relatively rare in the city centre.
+
+Political violence is uncommon, though very large demonstrations may occur in Paris and other French cities simultaneously.
+
+These demonstrations, usually managed by a strong police presence, can turn confrontational and escalate into violence.
+
+
+
+
+
+
+
+
+
+

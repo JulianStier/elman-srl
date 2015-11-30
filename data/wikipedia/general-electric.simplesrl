@@ -1,0 +1,99 @@
+General Electric (GE) is an American multinational conglomerate corporation incorporated in New York and headquartered in Fairfield, Connecticut.
+General Electric (GE)	SUB
+is	PRED
+an American multinational conglomerate corporation	OBJ
+incorporated	PRED
+in New York and headquartered in Fairfield, Connecticut.	LOC
+
+
+As of 2015, the company operates through the following segments: Power and Water, Oil and Gas, Energy Management, Aviation, Healthcare, Transportation, and Capital.
+As of 2015,	TIME
+the company	SUB
+operates	PRED
+through the following segments:	OBJ
+Power and Water, Oil and Gas, Energy Management, Aviation, Healthcare, Transportation, and Capital.	REST
+
+
+In 2011, GE ranked among the Fortune 500 as the 26th-largest firm in the U.S. by gross revenue, as well as the 14th most profitable. 
+In 2011,	TIME
+GE	SUB
+ranked	PRED
+among the Fortune 500	REST
+as the 26th-largest firm	OBJ
+in the U.S.	LOC
+by gross revenue,	REST
+as well as the 14th most profitable.	REST
+
+
+As of 2012 the company was listed the fourth-largest in the world among the Forbes Global 2000, further metrics being taken into account.
+As of 2012	TIME
+the company	SUB
+was listed	PRED
+the fourth-largest	OBJ
+in the world	LOC
+among the Forbes Global 2000,	REST 
+further metrics being taken into account.	REST
+
+
+The Nobel Prize has twice been awarded to employees of General Electric: 
+The Nobel Prize 	SUB
+has twice been awarded 	PRED
+to employees	OBJ
+of General Electric:	REST
+
+
+Irving Langmuir in 1932, and Ivar Giaever in 1973.
+Irving Langmuir	SUB 
+in 1932, 	TIME
+and 	REST
+Ivar Giaever	SUB 
+in 1973.	TIME
+
+
+During 1889, Thomas Edison had business interests in many electricity-related companies: 
+During 1889, 	TIME
+Thomas Edison 	SUB
+had 	PRED
+business interests 	OBJ
+in many electricity-related companies: 	REST
+
+
+Edison Lamp Company, a lamp manufacturer in East Newark, New Jersey; Edison Machine Works, a manufacturer of dynamos and large electric motors in Schenectady, New York; Bergmann & Company, a manufacturer of electric lighting fixtures, sockets, and other electric lighting devices; and Edison Electric Light Company, the patent-holding company and the financial arm backed by J.P. Morgan and the Vanderbilt family for Edison's lighting experiments.
+Edison Lamp Company, 	SUB
+a lamp manufacturer 	OBJ
+in East Newark, New Jersey; 	LOC
+Edison Machine Works, 	SUB
+a manufacturer 	OBJ
+of dynamos and large electric motors	REST 
+in Schenectady, New York; 	LOC
+Bergmann & Company, 	SUB
+a manufacturer 	OBJ
+of electric lighting fixtures, sockets, and other electric lighting devices; 	REST
+and 	REST
+Edison Electric Light Company,	 SUB
+the patent-holding company and the financial arm	OBJ
+backed by J.P. Morgan and the Vanderbilt family for Edison's lighting experiments.	REST
+
+
+In 1889, Drexel, Morgan & Co., a company founded by J.P. Morgan and Anthony J. Drexel, financed Edison's research and helped merge those companies under one corporation to form Edison General Electric Company which was incorporated in New York on April 24, 1889. 
+In 1889, 	TIME
+Drexel, Morgan & Co., 	SUB
+a company founded by J.P. Morgan and Anthony J. Drexel, 	REST
+financed 	PRED
+Edison's research 	OBJ
+and 	REST
+helped merge	PRED 
+those companies 	OBJ
+under one corporation to form Edison General Electric Company 	REST
+which 	REST
+was incorporated	PRED 
+in New York 	LOC
+on April 24, 1889. 	TIME	
+
+
+The new company also acquired Sprague Electric Railway & Motor Company in the same year.
+The new company 	SUB
+also 	REST
+acquired	PRED
+Sprague Electric Railway & Motor Company 	OBJ
+in the same year.	TIME

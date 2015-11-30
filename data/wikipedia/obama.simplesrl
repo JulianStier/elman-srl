@@ -1,0 +1,321 @@
+Barack Hussein Obama II is the 44th and current President of the United States, and the first African American to hold the office. 
+Barack Hussein Obama II 	SUB
+is 	PRED
+the 44th and current President 	OBJ
+of the United States, 	REST
+and 	REST
+the first African American 	OBJ
+to hold the office. 	REST
+
+
+Born in Honolulu, Hawaii, Obama is a graduate of Columbia University and Harvard Law School, where he served as president of the Harvard Law Review. 
+Born 	PRED
+in Honolulu, Hawaii, 	LOC
+Obama 	SUB
+is 	PRED
+a graduate of Columbia University and Harvard Law School,	OBJ
+where	REST
+he 	SUB
+served	PRED
+as president of the Harvard Law Review.	OBJ
+
+He was a community organizer in Chicago before earning his law degree. 
+He 	SUB
+was 	PRED
+a community organizer 	OBJ
+in Chicago 	LOC
+before earning his law degree. 	TIME
+
+
+He worked as a civil rights attorney and taught constitutional law at University of Chicago Law School from 1992 to 2004. 
+He 	SUB
+worked 	PRED
+as a civil rights attorney 	OBJ
+and 	REST
+taught 	PRED
+constitutional law	OBJ 
+at University of Chicago Law School	LOC 
+from 1992 to 2004. 	TIME
+
+He served three terms representing the 13th District in the Illinois Senate from 1997 to 2004, running unsuccessfully for the United States House of Representatives in 2000.
+He 	SUB
+served 	PRED
+three terms 	OBJ
+representing the 13th District 	REST
+in the Illinois Senate 	LOC
+from 1997 to 2004, 	TIME
+running 	PRED
+unsuccessfully 	REST
+for the United States House of Representatives 	REST
+in 2000.	TIME
+
+
+In 2004, Obama received national attention during his campaign to represent Illinois in the United States Senate with his victory in the March Democratic Party primary, his keynote address at the Democratic National Convention in July, and his election to the Senate in November. 
+In 2004,	TIME
+Obama 	SUB
+received 	PRED
+national attention	OBJ 
+during his campaign 	TIME
+to represent Illinois 	REST
+in the United States Senate 	LOC
+with his victory in the March Democratic Party primary, 	REST
+his keynote address 	REST
+at the Democratic National Convention 	LOC
+in July, 	TIME
+and 	REST
+his election 	REST
+to the Senate 	LOC
+in November. 	TIME
+
+
+
+He began his presidential campaign in 2007 and, after a close primary campaign against Hillary Rodham Clinton in 2008, he won sufficient delegates in the Democratic Party primaries to receive the presidential nomination. 
+He 	SUB
+began 	PRED
+his presidential campaign 	OBJ
+in 2007 	TIME
+and, 	REST
+after a close primary campaign	TIME 
+against Hillary Rodham Clinton 	REST
+in 2008, 	TIME
+he 	SUB
+won 	PRED
+sufficient delegates	OBJ 
+in the Democratic Party primaries 	LOC
+to receive 	PRED
+the presidential nomination. 	OBJ
+
+
+He then defeated Republican nominee John McCain in the general election, and was inaugurated as president on January 20, 2009.
+He 	SUB
+then 	REST
+defeated 	PRED
+Republican nominee John McCain	OBJ 
+in the general election, 	REST
+and 	REST
+was 	PRED
+inaugurated as president 	OBJ
+on January 20, 2009. 	TIME
+
+
+Nine months after his election, Obama was named the 2009 Nobel Peace Prize laureate.
+Nine months after his election, 	TIME
+Obama 	SUB
+was named	PRED
+the 2009 Nobel Peace Prize laureate.	OBJ
+
+
+During his first two years in office, Obama signed into law economic stimulus legislation in response to the Great Recession in the form of the American Recovery and Reinvestment Act of 2009 and the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010. 
+During his first two years 	TIME
+in office, 	LOC
+Obama 	SUB
+signed 	PRED
+into law economic stimulus legislation 	OBJ
+in response to the Great Recession in the form of the American Recovery and Reinvestment Act of 2009 and the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act 	REST
+of 2010. 	TIME
+
+
+
+Other major domestic initiatives in his first term included the Patient Protection and Affordable Care Act, often referred to as "Obamacare"; the Dodd–Frank Wall Street Reform and Consumer Protection Act; and the Don't Ask, Don't Tell Repeal Act of 2010.
+Other major domestic initiatives in his first term 	SUB
+included 	PRED
+the Patient Protection and Affordable Care Act, often referred to as "Obamacare"; the Dodd–Frank Wall Street Reform and Consumer Protection Act; and the Don't Ask, Don't Tell Repeal Act 	OBJ
+of 2010.	TIME
+
+
+In foreign policy, Obama ended U.S. military involvement in the Iraq War, increased U.S. troop levels in Afghanistan, signed the New START arms control treaty with Russia, ordered U.S. military involvement in Libya in opposition to Muammar Gaddafi, and ordered the military operation that resulted in the death of Osama bin Laden. 
+In foreign policy,	REST 
+Obama 	SUB
+ended 	PRED
+U.S. military involvement in the Iraq War, 	OBJ
+increased 	PRED
+U.S. troop levels in Afghanistan, 	OBJ
+signed 	PRED
+the New START arms control treaty 	OBJ
+with Russia, 	REST
+ordered 	PRED
+U.S. military involvement 	OBJ
+in Libya 	LOC
+in opposition to Muammar Gaddafi, 	REST
+and 	REST
+ordered 	PRED
+the military operation 	OBJ
+that resulted in the death of Osama bin Laden. 	REST
+
+
+In January 2011, the Republicans regained control of the House of Representatives as the Democratic Party lost a total of 63 seats; and, after a lengthy debate over federal spending and whether or not to raise the nation's debt limit, Obama signed the Budget Control Act of 2011 and the American Taxpayer Relief Act of 2012.
+In January 2011, 	TIME
+the Republicans 	SUB
+regained 	PRED
+control of the House of Representatives 	OBJ
+as 	REST
+the Democratic Party 	SUB
+lost 	PRED
+a total of 63 seats; 	OBJ
+and, 	REST
+after a lengthy debate over federal spending 	TIME
+and 	REST
+whether or not 	REST
+to raise 	PRED
+the nation's debt limit, 	OBJ
+Obama 	SUB
+signed 	PRED
+the Budget Control Act 	OBJ
+of 2011 	TIME
+and 	REST
+the American Taxpayer Relief Act of 2012.	OBJ
+
+
+Obama was reelected president in November 2012, defeating Republican nominee Mitt Romney, and was sworn in for a second term on January 20, 2013. 
+Obama 	SUB
+was 	PRED
+reelected president 	OBJ
+in November 2012, 	TIME
+defeating 	PRED
+Republican nominee Mitt Romney, 	OBJ
+and 	REST
+was sworn in	PRED 
+for a second term 	OBJ
+on January 20, 2013. 	TIME
+
+
+During his second term, Obama has promoted domestic policies related to gun control in response to the Sandy Hook Elementary School shooting, and has called for full equality for LGBT Americans, while his administration has filed briefs which urged the Supreme Court to strike down the Defense of Marriage Act of 1996 and California's Proposition 8 as unconstitutional. 
+During his second term,	TIME 
+Obama 	SUB
+has promoted	PRED 
+domestic policies 	OBJ
+related to gun control in response to the Sandy Hook Elementary School shooting, 	REST
+and 	REST
+has called 	PRED
+for full equality for LGBT Americans, 	OBJ
+while 	REST
+his administration 	SUB
+has filed 	PRED
+briefs 	OBJ
+which 	SUB
+urged 	PRED
+the Supreme Court 	OBJ
+to strike down 	PRED
+the Defense of Marriage Act 	OBJ
+of 1996 	TIME
+and 	REST
+California's Proposition 8 	OBJ
+as unconstitutional. 	REST
+
+
+In foreign policy, Obama ordered U.S. military involvement in Iraq in response to gains made by the Islamic State in Iraq after the 2011 withdrawal from Iraq, continued the process of ending U.S. combat operations in Afghanistan, and has sought to normalize U.S. relations with Cuba.
+In foreign policy, 	REST
+Obama 	SUB
+ordered 	PRED
+U.S. military involvement	OBJ 
+in Iraq 	LOC
+in response to gains	REST 
+made by the Islamic State 	REST
+in Iraq 	LOC
+after the 2011 withdrawal 	TIME
+from Iraq, 	LOC
+continued 	PRED
+the process of ending U.S. combat operations in Afghanistan,	OBJ
+and 	REST
+has sought 	PRED
+to normalize 	PRED
+U.S. relations with Cuba.	OBJ
+
+
+
+
+
+Obama was born on August 4, 1961, at Kapiʻolani Maternity & Gynecological Hospital in Honolulu, Hawaii, and would become the first President to have been born in Hawaii. 
+Obama 	SUB
+was born 	PRED
+on August 4, 1961, 	TIME
+at Kapiʻolani Maternity & Gynecological Hospital in Honolulu, Hawaii, 	LOC
+and 	REST
+would become 	PRED
+the first President 	OBJ
+to have been born 		PRED
+in Hawaii. 	LOC
+
+His mother, Stanley Ann Dunham, born in Wichita, Kansas, was of mostly English ancestry. 
+His mother, Stanley Ann Dunham, 	SUB
+born 	PRED
+in Wichita, Kansas, 	LOC
+was 	PRED
+of mostly English ancestry. 	OBJ
+
+His father, Barack Obama, Sr., was a Luo from Nyang’oma Kogelo, Kenya. 
+His father, Barack Obama, Sr., 	SUB
+was 	PRED
+a Luo 	OBJ
+from Nyang’oma Kogelo, Kenya. 	LOC
+
+Obama's parents met in 1960 in a Russian language class at the University of Hawaiʻi at Mānoa, where his father was a foreign student on scholarship. 
+Obama's parents 	SUB
+met 	PRED
+in 1960 	TIME
+in a Russian language class 	OBJ
+at the University of Hawaiʻi at Mānoa, 	LOC	
+where 	LOC
+his father 	SUB
+was 	PRED
+a foreign student on scholarship. 	OBJ
+
+The couple married in Wailuku on Maui on February 2, 1961, and separated when, in late August 1961, Obama's mother moved with their newborn son to attend the University of Washington in Seattle for one year. 
+The couple 	SUB
+married 	PRED
+in Wailuku on Maui 	LOC
+on February 2, 1961, 	TIME
+and 	REST
+separated 		PRED
+when, in late August 1961, 	TIME
+Obama's mother 	SUB
+moved 	PRED
+with their newborn son 	REST
+to attend 		PRED
+the University of Washington 	OBJ
+in Seattle 	LOC
+for one year. 	TIME
+
+In the meantime, Obama, Sr. completed his undergraduate economics degree in Hawaii in June 1962, then left to attend graduate school at Harvard University on a scholarship. 
+In the meantime, 	TIME
+Obama, Sr. 	SUB
+completed 	PRED
+his undergraduate economics degree 	OBJ
+in Hawaii 	LOC
+in June 1962, 	TIME
+then 	TIME
+left to attend 	PRED
+graduate school 	OBJ
+at Harvard University 	LOC
+on a scholarship. 	REST
+
+Obama's parents divorced in March 1964. 
+Obama's parents 	SUB
+divorced 	PRED
+in March 1964. 	TIME
+
+Obama Sr. returned to Kenya in 1964 where he remarried; 
+Obama Sr. 	SUB
+returned 	PRED
+to Kenya 	LOC
+in 1964 	TIME
+where 	LOC
+he 	SUB
+remarried; 	PRED
+
+he visited Barack in Hawaii only once, in 1971. 
+he 	SUB
+visited 	PRED
+Barack 	OBJ
+in Hawaii 	LOC
+only once, in 1971. 	TIME
+
+He died in an automobile accident in 1982, his son being 21 years old at that time.
+He 	SUB
+died 	PRED
+in an automobile accident 	OBJ
+in 1982, 	TIME
+his son 	SUB
+being 	PRED
+21 years old	OBJ 
+at that time.	TIME

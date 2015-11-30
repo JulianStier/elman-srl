@@ -1,0 +1,1542 @@
+Jupiter is the fifth planet from the Sun and the largest planet in the Solar System.
+Jupiter	SUB
+is	PRED
+the fifth planet	OBJ
+from the Sun	LOC
+and	REST
+the largest planet	OBJ
+in the Solar System.	LOC
+
+It is a giant planet with a mass one-thousandth of that of the Sun, but is two and a half times that of all the other planets in the Solar System combined.
+It	SUB
+is	PRED
+a giant planet	OBJ
+with a mass one-thousandth of that of the Sun, but	REST
+is	PRED
+two and a half times that of all the other planets	REST
+in the Solar System	LOC
+combined.	PRED
+
+Jupiter is a gas giant, along with Saturn.
+Jupiter	SUB
+is	PRED
+a gas giant,	OBJ
+along with Saturn.	REST
+
+Uranus and Neptune are ice giants.
+Uranus and Neptune	SUB
+are	PRED
+ice giants.	OBJ
+
+Jupiter was known to astronomers of ancient times.
+Jupiter	SUB
+was known	PRED
+to astronomers of ancient times.	OBJ
+
+The Romans named it after their god Jupiter.
+The Romans	SUB
+named	PRED
+it	OBJ
+after their god Jupiter.	REST
+
+When viewed from Earth, Jupiter can reach an apparent magnitude of −2.94, bright enough to cast shadows, and making it on average the third-brightest object in the night sky after the Moon and Venus.
+When viewed from Earth,	CON
+Jupiter	SUB
+can reach	PRED
+an apparent magnitude of −2.94,	OBJ
+bright enough to cast shadows, and making it on average the third-brightest object in the night sky after the Moon and Venus.	REST
+
+
+
+Jupiter is primarily composed of hydrogen with a quarter of its mass being helium, although helium only comprises about a tenth of the number of molecules.
+Jupiter	SUB
+is primarily composed	PRED
+of hydrogen	OBJ
+with a quarter of its mass being helium, although helium only comprises about a tenth of the number of molecules.	REST
+
+It may also have a rocky core of heavier elements, but like the other giant planets, Jupiter lacks a well-defined solid surface.
+It	SUB
+may also have	PRED
+a rocky core of heavier elements,	OBJ
+but like the other giant planets, Jupiter lacks a well-defined solid surface.	REST
+
+Because of its rapid rotation, the planet's shape is that of an oblate spheroid.
+Because of its rapid rotation,	REST
+the planet's shape	SUB
+is	PRED
+that of an oblate spheroid.	OBJ
+
+It has a slight but noticeable bulge around the equator.
+It	SUB
+has	PRED
+a slight but noticeable bulge	OBJ
+around the equator.	LOC
+
+The outer atmosphere is visibly segregated into several bands at different latitudes, resulting in turbulence and storms along their interacting boundaries.
+The outer atmosphere	SUB
+is visibly segregated	PRED
+into several bands	OBJ
+at different latitudes, resulting in turbulence and storms along their interacting boundaries.	REST
+
+A prominent result is the Great Red Spot, a giant storm that is known to have existed since at least the 17th century when it was first seen by telescope.
+A prominent result	SUB
+is	PRED
+the Great Red Spot,	OBJ
+a giant storm that is known to have existed	REST
+since at least the 17th century	TIME
+when it was first seen by telescope.	REST
+
+Surrounding Jupiter is a faint planetary ring system and a powerful magnetosphere.
+Surrounding Jupiter	SUB
+is	PRED
+a faint planetary ring system	OBJ
+and a powerful magnetosphere.	OBJ
+
+Jupiter has at least 67 moons, including the four large Galilean moons discovered by Galileo Galilei in 1610.
+Jupiter	SUB
+has	PRED
+at least	REST	
+67 moons,	OBJ
+including the four large Galilean moons discovered by Galileo Galilei	REST
+in 1610.	TIME
+
+Ganymede, the largest of these, has a diameter greater than that of the planet Mercury.
+Ganymede,	SUB
+the largest of these,	REST
+has	PRED
+a diameter	OBJ
+greater than that of the planet Mercury.	REST
+
+
+
+Jupiter has been explored on several occasions by robotic spacecraft, most notably during the early Pioneer and Voyager flyby missions and later by the Galileo orbiter.
+Jupiter	SUB
+has been explored	PRED
+on several occasions	TIME
+by robotic spacecraft,	OBJ
+most notably	REST
+during the early Pioneer and Voyager flyby missions	TIME
+and later	TIME
+by the Galileo orbiter.	OBJ
+
+The most recent probe to visit Jupiter was the Pluto-bound New Horizons spacecraft in late February 2007.
+The most recent probe	SUB
+to visit	PRED
+Jupiter	OBJ
+was	PRED
+the Pluto-bound New Horizons spacecraft	OBJ
+in late February 2007.	TIME
+
+The probe used the gravity from Jupiter to increase its speed.
+The probe	SUB
+used	PRED
+the gravity from Jupiter	OBJ
+to increase its speed.	REST
+
+Future targets for exploration in the Jovian system include the possible ice-covered liquid ocean on the moon Europa.
+Future targets	SUB
+for exploration in the Jovian system	REST
+include	PRED
+the possible ice-covered liquid ocean	OBJ
+on the moon Europa.	LOC
+
+
+
+A set of new super-Earths may have originally populated the inner Solar System.
+A set of new super-Earths	SUB
+may have originally populated	PRED
+the inner Solar System.	OBJ
+
+Earth and its neighbor planets may have formed from fragments of planets after collisions with Jupiter destroyed those super-Earths near the Sun.
+Earth and its neighbor planets	SUB
+may have formed	PRED
+from fragments of planets	OBJ
+after collisions	TIME
+with Jupiter destroyed those super-Earths near the Sun.	REST
+
+As Jupiter came toward the inner Solar System, in what theorists call the Grand Tack Hypothesis, gravitational tugs and pulls occurred causing a series of collisions between the super-Earths as their orbits began to overlap.
+As	REST
+Jupiter	SUB
+came toward	PRED
+the inner Solar System,	OBJ
+in what	REST
+theorists	SUB
+call	PRED
+the Grand Tack Hypothesis,	OBJ
+gravitational tugs and pulls	SUB
+occurred	PRED
+causing a series of collisions between the super-Earths as their orbits began to overlap.	REST
+
+
+
+Astronomers have discovered nearly 500 planetary systems each with multiple planets, and typically these systems include a few planets with masses several times greater than Earth's (super-Earths), orbiting closer to their star than Mercury is to the Sun, and Jupiter-like gas giants are also often found close to their star.
+Astronomers	SUB
+have discovered	PRED
+nearly 500 planetary systems	OBJ
+each with multiple planets,	REST
+and typically	REST
+these systems	SUB
+include	PRED
+a few planets	OBJ
+with masses several times greater than Earth's (super-Earths),	REST
+orbiting closer to their star than Mercury is to the Sun, and Jupiter-like gas giants are also often found close to their star.	REST
+
+
+
+It appears that Jupiter is in its present orbit in the outer Solar System because Saturn pulled Jupiter out during its migration.
+It appears that	REST
+Jupiter	SUB
+is in	PRED
+its present orbit	OBJ
+in the outer Solar System	LOC
+because Saturn pulled Jupiter out during its migration.	REST
+
+Jupiter moving out of the inner Solar System would have allowed the formation of inner planets, including Earth.
+Jupiter	SUB
+moving out of the inner Solar System	LOC
+would have allowed	PRED
+the formation of inner planets,	OBJ
+including Earth.	REST
+
+
+
+Jupiter is composed primarily of gaseous and liquid matter.
+Jupiter	SUB
+is composed primarily of	PRED
+gaseous and liquid matter.	OBJ
+
+It is the largest of the four giant planets in the Solar System and hence its largest planet.
+It	SUB
+is	PRED
+the largest of the four giant planets	OBJ
+in the Solar System	LOC
+and hence its largest planet.	REST
+
+It has a diameter of 142,984 km (88,846 mi) at its equator.
+It	SUB
+has	PRED
+a diameter of 142,984 km (88,846 mi)	OBJ
+at its equator.	LOC
+
+The density of Jupiter, 1.326 g/cm3, is the second highest of the giant planets, but lower than those of the four terrestrial planets.
+The density of Jupiter,	SUB
+1.326 g/cm3,	REST
+is	PRED
+the second highest of the giant planets,	OBJ
+but lower than those of the four terrestrial planets.	REST
+
+
+
+Jupiter's upper atmosphere is composed of about 88–92% hydrogen and 8–12% helium by percent volume of gas molecules.
+Jupiter's upper atmosphere	SUB
+is composed of	PRED
+about 88–92% hydrogen and 8–12% helium	OBJ
+by percent volume of gas molecules.	REST
+
+Because a helium atom has about four times as much mass as a hydrogen atom, the composition changes when described as the proportion of mass contributed by different atoms.
+Because	REST
+a helium atom	SUB
+has	PRED
+about four times as much mass as a hydrogen atom,	OBJ
+the composition changes when described as the proportion of mass contributed by different atoms.	REST
+
+Thus, Jupiter's atmosphere is approximately 75% hydrogen and 24% helium by mass, with the remaining one percent of the mass consisting of other elements.
+Thus,	REST
+Jupiter's atmosphere	SUB
+is	PRED
+approximately 75% hydrogen and 24% helium by mass,	OBJ
+with the remaining one percent of the mass consisting of other elements.	REST
+
+The interior contains denser materials, such that the distribution is roughly 71% hydrogen, 24% helium and 5% other elements by mass.
+The interior	SUB
+contains	PRED
+denser materials,	OBJ
+such that the distribution is roughly 71% hydrogen, 24% helium and 5% other elements by mass.	REST
+
+The atmosphere contains trace amounts of methane, water vapor, ammonia, and silicon-based compounds.
+The atmosphere	SUB
+contains	PRED
+trace amounts of methane, water vapor, ammonia, and silicon-based compounds.	OBJ
+
+There are also traces of carbon, ethane, hydrogen sulfide, neon, oxygen, phosphine, and sulfur.
+There	LOC
+are also traces of	PRED
+carbon, ethane, hydrogen sulfide, neon, oxygen, phosphine, and sulfur.	OBJ
+
+The outermost layer of the atmosphere contains crystals of frozen ammonia.
+The outermost layer of the atmosphere	SUB
+contains	PRED
+crystals of frozen ammonia.	OBJ
+
+Through infrared and ultraviolet measurements, trace amounts of benzene and other hydrocarbons have also been found.
+Through infrared and ultraviolet measurements,	REST
+trace amounts of benzene and other hydrocarbons	OBJ
+have also been found.	PRED
+
+
+
+The atmospheric proportions of hydrogen and helium are close to the theoretical composition of the primordial solar nebula.
+The atmospheric proportions of hydrogen and helium	SUB
+are close to	PRED
+the theoretical composition of the primordial solar nebula.	OBJ
+
+Neon in the upper atmosphere only consists of 20 parts per million by mass, which is about a tenth as abundant as in the Sun.
+Neon	SUB
+in the upper atmosphere	LOC
+only consists of	PRED
+20 parts per million by mass,	OBJ
+which is about a tenth as abundant as in the Sun.	REST
+
+Helium is also depleted, to about 80% of the Sun's helium composition.
+Helium	SUB
+is also depleted,	PRED
+to about 80% of the Sun's helium composition.	OBJ
+
+This depletion is a result of precipitation of these elements into the interior of the planet.
+This depletion	SUB
+is a result of	PRED
+precipitation of these elements	OBJ
+into the interior of the planet.	REST
+
+Abundances of heavier inert gases in Jupiter's atmosphere are about two to three times that of the Sun.
+Abundances of heavier inert gases	SUB
+in Jupiter's atmosphere	LOC
+are	PRED
+about two to three times that of the Sun.	OBJ
+
+
+
+Based on spectroscopy, Saturn is thought to be similar in composition to Jupiter, but the other giant planets Uranus and Neptune have relatively much less hydrogen and helium.
+Based on spectroscopy,	REST
+Saturn	SUB
+is thought to be similar in composition to	PRED
+Jupiter,	OBJ
+but the other giant planets Uranus and Neptune have relatively much less hydrogen and helium.	REST
+
+Because of the lack of atmospheric entry probes, high-quality abundance numbers of the heavier elements are lacking for the outer planets beyond Jupiter.
+Because of the lack of atmospheric entry probes,	REST
+high-quality abundance numbers	SUB
+of the heavier elements	REST
+are lacking for	PRED
+the outer planets	OBJ
+beyond Jupiter.	LOC
+
+
+
+Jupiter's mass is 2.5 times that of all the other planets in the Solar System combined.
+Jupiter's mass	SUB
+is	PRED
+2.5 times that of all the other planets	OBJ
+in the Solar System	LOC
+combined.	REST
+
+This is so massive that its barycenter with the Sun lies above the Sun's surface at 1.068 solar radii from the Sun's center.
+This is so massive that	REST
+its barycenter with the Sun	SUB
+lies	PRED
+above the Sun's surface	OBJ
+at 1.068 solar radii from the Sun's center.	LOC
+
+Although with a diameter 11 times that of Earth, it is much larger, it is considerably less dense.
+Although with a diameter 11 times that of Earth,	REST
+it	SUB
+is	PRED
+much larger,	OBJ
+it is considerably less dense.	REST
+
+Jupiter's volume is that of about 1,321 Earths, but it is only 318 times as massive.
+Jupiter's volume	SUB
+is	PRED
+that of about 1,321 Earths,	OBJ
+but it is only 318 times as massive.	REST
+
+Jupiter's radius is about 1/10 the radius of the Sun, and its mass is 0.001 times the mass of the Sun, so the density of the two bodies is similar.
+Jupiter's radius	SUB
+is	PRED
+about 1/10 the radius of the Sun,	OBJ
+and its mass is 0.001 times the mass of the Sun, so the density of the two bodies is similar.	REST
+
+A Jupiter mass is often used as a unit to describe masses of other objects, particularly extrasolar planets and brown dwarfs.
+A Jupiter mass	SUB
+is often used as	PRED
+a unit to describe masses of other objects,	OBJ
+particularly extrasolar planets and brown dwarfs.	REST
+
+So, for example, the extrasolar planet HD 209458 b has a mass of 0.69 MJ, while Kappa Andromedae b has a mass of 12.8 MJ.
+So, for example,	REST
+the extrasolar planet HD 209458 b	SUB
+has	PRED
+a mass of 0.69 MJ,	OBJ
+while Kappa Andromedae b has a mass of 12.8 MJ.	REST
+
+
+
+Theoretical models indicate that if Jupiter had much more mass than it does at present, it would shrink.
+Theoretical models	SUB
+indicate	PRED
+that if Jupiter had much more mass than it does at present,	REST
+it would shrink.	OBJ
+
+For small changes in mass, the radius would not change appreciably, and above about 500 M⊕ (1.6 Jupiter masses) the interior would become so much more compressed under the increased pressure that its volume would decrease despite the increasing amount of matter.
+For small changes in mass,	REST
+the radius	SUB
+would not change	PRED
+appreciably, and above about 500 M⊕ (1.6 Jupiter masses) the interior would become so much more compressed under the increased pressure that its volume would decrease despite the increasing amount of matter.	REST
+
+As a result, Jupiter is thought to have about as large a diameter as a planet of its composition and evolutionary history can achieve.
+As a result,	REST
+Jupiter	SUB
+is thought to have	PRED
+about as large a diameter as a planet of its composition and evolutionary history can achieve.	OBJ
+
+The process of further shrinkage with increasing mass would continue until appreciable stellar ignition is achieved as in high-mass brown dwarfs having around 50 Jupiter masses.
+The process of further shrinkage	SUB
+with increasing mass	REST
+would continue	PRED
+until appreciable stellar ignition is achieved	OBJ
+as in high-mass brown dwarfs having around 50 Jupiter masses.	REST
+
+
+
+Although Jupiter would need to be about 75 times as massive to fuse hydrogen and become a star, the smallest red dwarf is only about 30 percent larger in radius than Jupiter.
+Although	REST
+Jupiter	SUB
+would need to be	PRED
+about 75 times as massive	OBJ
+to fuse hydrogen and become a star, the smallest red dwarf is only about 30 percent larger in radius than Jupiter.	REST
+
+Despite this, Jupiter still radiates more heat than it receives from the Sun.
+Despite this,	REST
+Jupiter	SUB
+still radiates	PRED
+more heat	OBJ
+than it receives from the Sun.	REST
+
+The amount of heat produced inside it is similar to the total solar radiation it receives.
+The amount of heat	SUB
+produced	REST
+inside it	LOC
+is similar to	PRED
+the total solar radiation	OBJ
+it receives.	REST
+
+This additional heat is generated by the Kelvin-Helmholtz mechanism through contraction.
+This additional heat	SUB
+is generated by	PRED
+the Kelvin-Helmholtz mechanism	OBJ
+through contraction.	REST
+
+This process causes Jupiter to shrink by about 2 cm each year.
+This process	SUB
+causes	PRED
+Jupiter	OBJ
+to shrink by	PRED
+about 2 cm each year.	OBJ
+
+When it was first formed, Jupiter was much hotter and was about twice its current diameter.
+When it was first formed,	TIME
+Jupiter	SUB
+was	PRED
+much hotter	OBJ
+and was	PRED
+about twice its current diameter.	OBJ
+
+
+
+Jupiter is thought to consist of a dense core with a mixture of elements, a surrounding layer of liquid metallic hydrogen with some helium, and an outer layer predominantly of molecular hydrogen.
+Jupiter	SUB
+is thought to consist of	PRED
+a dense core	OBJ
+with a mixture of elements, a surrounding layer of liquid metallic hydrogen with some helium, and an outer layer predominantly of molecular hydrogen.	REST
+
+Beyond this basic outline, there is still considerable uncertainty.
+Beyond this basic outline,	REST
+there is	PRED
+still considerable uncertainty.	OBJ
+
+The core is often described as rocky, but its detailed composition is unknown, as are the properties of materials at the temperatures and pressures of those depths (see below).
+The core	SUB
+is often described	PRED
+as rocky,	OBJ
+but its detailed composition is unknown, as are the properties of materials at the temperatures and pressures of those depths (see below).	REST
+
+In 1997, the existence of the core was suggested by gravitational measurements, indicating a mass of from 12 to 45 times the Earth's mass or roughly 4%–14% of the total mass of Jupiter.
+In 1997,	TIME
+the existence of the core	SUB
+was suggested by	PRED
+gravitational measurements,	OBJ
+indicating a mass of from 12 to 45 times the Earth's mass or roughly 4%–14% of the total mass of Jupiter.	REST
+
+The presence of a core during at least part of Jupiter's history is suggested by models of planetary formation that require the formation of a rocky or icy core massive enough to collect its bulk of hydrogen and helium from the protosolar nebula.
+The presence of a core	SUB
+during at least part of Jupiter's history	TIME
+is suggested by	PRED
+models of planetary formation	OBJ
+that require the formation of a rocky or icy core massive enough to collect its bulk of hydrogen and helium from the protosolar nebula.	REST
+
+Assuming it did exist, it may have shrunk as convection currents of hot liquid metallic hydrogen mixed with the molten core and carried its contents to higher levels in the planetary interior.
+Assuming	REST
+it	SUB
+did exist,	PRED
+it	SUB
+may have shrunk	PRED
+as convection currents of hot liquid metallic hydrogen	OBJ
+mixed with the molten core and carried its contents to higher levels in the planetary interior.	REST
+
+A core may now be entirely absent, as gravitational measurements are not yet precise enough to rule that possibility out entirely.
+A core	SUB
+may now be	PRED
+entirely absent,	OBJ
+as gravitational measurements are not yet precise enough to rule that possibility out entirely.	REST
+
+
+
+The uncertainty of the models is tied to the error margin in hitherto measured parameters.
+The uncertainty of the models	SUB
+is tied to	PRED
+the error margin	OBJ
+in hitherto measured parameters.	REST
+
+One of the rotational coefficients used to describe the planet's gravitational moment, Jupiter's equatorial radius, and its temperature at 1 bar pressure.
+One of the rotational coefficients	SUB
+used to describe	PRED
+the planet's gravitational moment,	OBJ
+Jupiter's equatorial radius, and its temperature at 1 bar pressure.	REST
+
+The Juno mission, which launched in August 2011, is expected to better constrain the values of these parameters, and thereby make progress on the problem of the core.
+The Juno mission,	SUB
+which launched in August 2011,	TIME
+is expected to	PRED
+better constrain the values of these parameters,	OBJ
+and thereby make progress on the problem of the core.	REST
+
+
+
+The core region is surrounded by dense metallic hydrogen, which extends outward to about 78% of the radius of the planet.
+The core region	SUB
+is surrounded by	PRED
+dense metallic hydrogen,	OBJ
+which extends outward to about 78% of the radius of the planet.	REST
+
+Rain-like droplets of helium and neon precipitate downward through this layer, depleting the abundance of these elements in the upper atmosphere.
+Rain-like droplets of helium	SUB
+and	REST
+neon	SUB
+precipitate downward through	PRED
+this layer,	OBJ
+depleting the abundance of these elements in the upper atmosphere.	REST
+
+
+
+Above the layer of metallic hydrogen lies a transparent interior atmosphere of hydrogen.
+Above the layer of	LOC
+metallic hydrogen	SUB
+lies	PRED
+a transparent interior atmosphere of hydrogen.	OBJ
+
+At this depth, the temperature is above the critical temperature, which for hydrogen is only 33 K.
+At this depth,	LOC
+the temperature	SUB
+is	PRED
+above the critical temperature,	OBJ
+which for hydrogen is only 33 K.	REST
+
+In this state, there are no distinct liquid and gas phases.
+In this state,	SUB
+there are no	PRED
+distinct liquid and gas phases.	OBJ
+
+Hydrogen is said to be in a supercritical fluid state.
+Hydrogen	SUB
+is said to be in	PRED
+a supercritical fluid state.	OBJ
+
+It is convenient to treat hydrogen as gas in the upper layer extending downward from the cloud layer to a depth of about 1,000 km, and as liquid in deeper layers.
+It	SUB
+is convenient to treat	PRED
+hydrogen	OBJ
+as gas in the upper layer	CON
+extending downward from the cloud layer to a depth of about 1,000 km, and as liquid in deeper layers.	REST
+
+
+
+The temperature and pressure inside Jupiter increase steadily toward the core, due to the Kelvin–Helmholtz mechanism.
+The temperature and pressure	SUB
+inside Jupiter	LOC
+increase steadily toward	PRED
+the core,	OBJ
+due to the Kelvin–Helmholtz mechanism.	REST
+
+At the surface pressure level of 10 bars, the temperature is around 340K.
+At the surface pressure level of 10 bars,	CON
+the temperature	SUB
+is	PRED
+around 340K.	OBJ
+
+At the phase transition region where hydrogen becomes metallic, it is believed the temperature is 10,000K and the pressure is 200 GPa.
+At the phase transition region where hydrogen becomes metallic,	REST
+it is believed	REST
+the temperature	SUB
+is	PRED
+10,000K	OBJ
+and	REST
+the pressure	SUB
+is	PRED
+200 GPa.	OBJ
+
+The temperature at the core boundary is estimated to be 36,000K and the interior pressure is roughly 3,000–4,500 GPa.
+The temperature	SUB
+at the core boundary	LOC
+is estimated to be	PRED
+36,000K	OBJ
+and	REST
+the interior pressure	SUB
+is	PRED
+roughly 3,000–4,500 GPa.	OBJ
+
+
+
+Jupiter has the largest planetary atmosphere in the Solar System, spanning over 5,000 km (3,107 mi) in altitude.
+Jupiter	SUB
+has	PRED
+the largest planetary atmosphere	OBJ
+in the Solar System,	LOC
+spanning over 5,000 km (3,107 mi) in altitude.	REST
+
+As Jupiter has no surface, the base of its atmosphere is usually considered to be the point at which atmospheric pressure is equal to 1 MPa, or ten times surface pressure on Earth.
+As Jupiter has no surface,	REST
+the base of its atmosphere	SUB
+is usually considered to be	PRED
+the point at which atmospheric pressure is equal to 1 MPa,	OBJ
+or ten times surface pressure on Earth.	REST
+
+
+
+Jupiter is perpetually covered with clouds composed of ammonia crystals and possibly ammonium hydrosulfide.
+Jupiter	SUB
+is perpetually covered with	PRED
+clouds	OBJ
+composed of ammonia crystals	CON
+and	REST
+possibly ammonium hydrosulfide.	CON
+
+The clouds are located in the tropopause and are arranged into bands of different latitudes, known as tropical regions.
+The clouds	SUB
+are located	PRED
+in the tropopause	LOC
+and	REST
+are arranged into	PRED
+bands of different latitudes,	OBJ
+known as tropical regions.	REST
+
+These are sub-divided into lighter-hued zones and darker belts.
+These	SUB
+are sub-divided into	PRED
+lighter-hued zones	OBJ
+and	REST
+darker belts.	OBJ
+
+The interactions of these conflicting circulation patterns cause storms and turbulence.
+The interactions	SUB
+of these conflicting circulation patterns	CON
+cause	PRED
+storms	OBJ
+and	REST
+turbulence.	OBJ
+
+Wind speeds of 100 m/s are common in zonal jets.
+Wind speeds	SUB
+of 100 m/s	CON
+are common in	PRED
+zonal jets.	LOC
+
+The zones have been observed to vary in width, color and intensity from year to year, but they have remained sufficiently stable for astronomers to give them identifying designations.
+The zones	SUB
+have been observed to vary in	PRED
+width, color and intensity	OBJ
+from year to year,	TIME
+but they have remained sufficiently stable for astronomers to give them identifying designations.	REST
+
+
+
+The cloud layer is only about 50 km deep, and consists of at least two decks of clouds.
+The cloud layer	SUB
+is	PRED
+only about 50 km	OBJ
+deep,	PRED
+and	REST
+consists of	PRED
+at least two decks of clouds.	OBJ
+
+There may also be a thin layer of water clouds underlying the ammonia layer, as evidenced by flashes of lightning detected in the atmosphere of Jupiter.
+There may also be	CON
+a thin layer of water clouds	SUB
+underlying	PRED
+the ammonia layer,	OBJ
+as evidenced by flashes of lightning detected in the atmosphere of Jupiter.	REST
+
+This is caused by water's polarity, which makes it capable of creating the charge separation needed to produce lightning.
+This	SUB
+is caused by	PRED
+water's polarity,	OBJ
+which makes it capable of creating the charge separation needed to produce lightning.	REST
+
+These electrical discharges can be up to a thousand times as powerful as lightning on the Earth.
+These electrical discharges	SUB
+can be	PRED
+up to a thousand times as powerful as lightning	OBJ
+on the Earth.	LOC
+
+The water clouds can form thunderstorms driven by the heat rising from the interior.
+The water clouds	SUB
+can form	PRED
+thunderstorms	OBJ
+driven by the heat rising from the interior.	REST
+
+
+
+The orange and brown coloration in the clouds of Jupiter are caused by upwelling compounds that change color when they are exposed to ultraviolet light from the Sun.
+The orange and brown coloration	SUB
+in the clouds of Jupiter	LOC
+are caused by	PRED
+upwelling compounds	OBJ
+that change color when they are exposed to ultraviolet light from the Sun.	REST
+
+The exact makeup remains uncertain, but the substances are believed to be phosphorus, sulfur or possibly hydrocarbons.
+The exact makeup	SUB
+remains	PRED
+uncertain,	OBJ
+but the substances are believed to be phosphorus, sulfur or possibly hydrocarbons.	REST
+
+These colorful compounds, known as chromophores, mix with the warmer, lower deck of clouds.
+These colorful compounds,	SUB
+known as chromophores,	CON
+mix with	PRED
+the warmer, lower deck of clouds.	OBJ
+
+The zones are formed when rising convection cells form crystallizing ammonia that masks out these lower clouds from view.
+The zones	SUB
+are formed when	PRED
+rising convection cells form crystallizing ammonia	TIME
+that masks out these lower clouds from view.	REST
+
+
+
+Jupiter's low axial tilt means that the poles constantly receive less solar radiation than at the planet's equatorial region.
+Jupiter's low axial tilt	SUB
+means that	PRED
+the poles	OBJ
+constantly receive	PRED
+less solar radiation	OBJ
+than at the planet's equatorial region.	REST
+
+Convection within the interior of the planet transports more energy to the poles, balancing out the temperatures at the cloud layer.
+Convection	SUB
+within the interior of the planet	LOC
+transports	PRED
+more energy to the poles,	OBJ
+balancing out the temperatures at the cloud layer.	REST
+
+
+
+The best known feature of Jupiter is the Great Red Spot, a persistent anticyclonic storm that is larger than Earth, located 22° south of the equator.
+The best known feature	SUB
+of Jupiter	CON
+is	PRED
+the Great Red Spot,	OBJ
+a persistent anticyclonic storm that is larger than Earth, located 22° south of the equator.	REST
+
+It is known to have been in existence since at least 1831, and possibly since 1665.
+It	SUB
+is known to have been	PRED
+in existence	OBJ
+since at least 1831,	TIME
+and possibly	REST
+since 1665.	TIME
+
+Images by the Hubble Space Telescope have shown as many as two red spots adjacent to the Great Red Spot.
+Images	SUB
+by the Hubble Space Telescope	CON
+have shown	PRED
+as many as two red spots	OBJ
+adjacent to the Great Red Spot.	LOC
+
+The storm is large enough to be visible through Earth-based telescopes with an aperture of 12 cm or larger.
+The storm	SUB
+is	PRED
+large enough	CON
+to be visible through	PRED
+Earth-based telescopes	OBJ
+with an aperture of 12 cm or larger.	REST
+
+Mathematical models suggest that the storm is stable and may be a permanent feature of the planet.
+Mathematical models 	SUB
+suggest 	PRED
+that 	REST
+the storm 	SUB
+is 	PRED
+stable 	OBJ
+and 	REST
+may be 	PRED
+a permanent feature 	OBJ
+of the planet.	REST
+
+
+
+The oval object rotates counterclockwise, with a period of about six days.
+The oval object 	SUB
+rotates 	PRED
+counterclockwise,	OBJ 
+with a period 	REST
+of about six days.	TIME
+
+
+The Great Red Spot's dimensions are 24–40,000 km × 12–14,000 km.
+The Great Red Spot's dimensions 	SUB
+are 	PRED
+24–40,000 km × 12–14,000 km.	OBJ
+
+
+It is large enough to contain two or three planets of Earth's diameter.
+It 	SUB
+is 	PRED
+large enough	OBJ 
+to contain two or three planets of Earth's diameter.	REST
+
+
+The maximum altitude of this storm is about 8 km (5 mi) above the surrounding cloudtops.
+The maximum altitude 	SUB
+of this storm 	REST
+is 	PRED
+about 8 km (5 mi) 	OBJ
+above the surrounding cloudtops.	LOC
+
+
+
+Storms such as this are common within the turbulent atmospheres of giant planets.
+Storms 	SUB
+such as this 	REST
+are 	PRED
+common 	OBJ
+within the turbulent atmospheres of giant planets.	LOC
+
+
+Jupiter also has white ovals and brown ovals, which are lesser unnamed storms.
+Jupiter 	SUB
+also 	REST
+has 	PRED
+white ovals and brown ovals,	OBJ 
+which 	REST
+are 	PRED
+lesser unnamed storms.	OBJ
+
+
+White ovals tend to consist of relatively cool clouds within the upper atmosphere.
+White ovals 	SUB
+tend to consist 	PRED
+of relatively cool clouds 	OBJ
+within the upper atmosphere.	LOC
+
+
+Brown ovals are warmer and located within the "normal cloud layer".
+Brown ovals 	SUB
+are 	PRED
+warmer 	OBJ
+and 	REST
+located 	PRED
+within the "normal cloud layer".	REST
+
+
+Such storms can last as little as a few hours or stretch on for centuries.
+Such storms 	SUB
+can last 	PRED
+as little as 	OBJ
+a few hours 	TIME
+or 	REST
+stretch on 	PRED
+for centuries.	TIME
+
+
+
+Even before Voyager proved that the feature was a storm, there was strong evidence that the spot could not be associated with any deeper feature on the planet's surface, as the Spot rotates differentially with respect to the rest of the atmosphere, sometimes faster and sometimes more slowly.
+Even before 	TIME
+Voyager 	SUB
+proved 	PRED
+that 	OBJ
+the feature	SUB 
+was 	PRED
+a storm, 	OBJ
+there 	LOC
+was 	PRED
+strong evidence 	OBJ
+that 	REST
+the spot 	SUB
+could not be associated 	PRED
+with any deeper feature 	OBJ
+on the planet's surface, 	LOC
+as 	REST
+the Spot 	SUB
+rotates 	PRED
+differentially 	OBJ
+with respect to the rest of the atmosphere, 	REST
+sometimes faster and sometimes more slowly.	TIME
+
+
+During its recorded history it has traveled several times around the planet relative to any possible fixed rotational marker below it.
+During its recorded history 	TIME
+it 	SUB
+has traveled	PRED 
+several times 	TIME
+around the planet 	LOC
+relative to any possible fixed rotational marker 	REST
+below it.	LOC
+
+
+In 2000, an atmospheric feature formed in the southern hemisphere that is similar in appearance to the Great Red Spot, but smaller.
+In 2000, 	TIME
+an atmospheric feature 	SUB
+formed 	PRED
+in the southern hemisphere	LOC 
+that 	REST
+is 	PRED
+similar 	OBJ
+in appearance to the Great Red Spot, but smaller.	REST
+
+
+This was created when several smaller, white oval-shaped storms merged to form a single feature—these three smaller white ovals were first observed in 1938.
+This 	SUB
+was created	PRED 
+when 	TIME
+several smaller, white oval-shaped storms 	SUB
+merged 	PRED
+to form a single feature—these three smaller white ovals were first observed 	REST
+in 1938.	TIME
+
+
+The merged feature was named Oval BA, and has been nicknamed Red Spot Junior.
+The merged feature 	SUB
+was named 	PRED
+Oval BA, 	OBJ
+and 	REST
+has been nicknamed 	PRED
+Red Spot Junior.	OBJ
+
+
+It has since increased in intensity and changed color from white to red.
+It 	SUB
+has 	PRED
+since increased in intensity 	OBJ
+and 	REST
+changed 	PRED
+color 	OBJ
+from white to red.	REST
+
+
+
+Jupiter has a faint planetary ring system composed of three main segments: an inner torus of particles known as the halo, a relatively bright main ring, and an outer gossamer ring.
+Jupiter 	SUB
+has 	PRED
+a faint planetary ring system 	OBJ
+composed 	PRED
+of three main segments:  REST
+an inner torus of particles 	SUB
+known as 	PRED
+the halo, 	OBJ
+a relatively bright main ring, 	SUB
+and 	REST
+an outer gossamer ring.	REST
+
+
+These rings appear to be made of dust, rather than ice as with Saturn's rings.
+These rings 	SUB
+appear 	PRED
+to be made of dust,	OBJ 
+rather than ice as with Saturn's rings.	REST
+
+
+The main ring is made of material ejected from the satellites Adrastea and Metis.
+The main ring 	SUB
+is made of 	PRED
+material 	OBJ
+ejected 	PRED
+from the satellites Adrastea and Metis.	LOC
+
+
+Material that would fall back to the moon is pulled into Jupiter because of its strong gravitational influence.
+Material 	SUB
+that 	REST
+would fall 	PRED
+back to the moon	LOC 
+is pulled 	PRED
+into Jupiter 	LOC
+because of its strong gravitational influence.	LOC
+
+
+The orbit of the material veers towards Jupiter and new material is added by additional impacts.
+The orbit of the material 	SUB
+veers 	PRED
+towards Jupiter	OBJ 
+and 	REST
+new material	SUB 
+is added 	PRED
+by additional impacts.	OBJ
+
+
+In a similar way, the moons Thebe and Amalthea probably produce the two distinct components of the dusty gossamer ring.
+In a similar way, 	REST
+the moons Thebe and Amalthea 	SUB
+probably 	REST
+produce 	PRED
+the two distinct components of the dusty gossamer ring.	REST
+
+
+There is also evidence of a rocky ring strung along Amalthea's orbit which may consist of collisional debris from that moon.
+There 	LOC
+is 	PRED
+also 	REST
+evidence of a rocky ring strung along Amalthea's orbit 	OBJ
+which 	SUB
+may consist	PRED 
+of collisional debris 	OBJ
+from that moon.	LOC
+
+
+
+Jupiter's magnetic field is 14 times as strong as the Earth's, ranging from 4.2 gauss (0.42 mT) at the equator to 10–14 gauss (1.0–1.4 mT) at the poles, making it the strongest in the Solar System (except for sunspots).
+
+This field is believed to be generated by eddy currents—swirling movements of conducting materials—within the liquid metallic hydrogen core.
+
+The volcanoes on the moon Io emit large amounts of sulfur dioxide forming a gas torus along the moon's orbit.
+
+The gas is ionized in the magnetosphere producing sulfur and oxygen ions.
+
+They, together with hydrogen ions originating from the atmosphere of Jupiter, form a plasma sheet in Jupiter's equatorial plane.
+
+The plasma in the sheet co-rotates with the planet causing deformation of the dipole magnetic field into that of magnetodisk.
+
+Electrons within the plasma sheet generate a strong radio signature that produces bursts in the range of 0.6–30 MHz.
+
+
+
+At about 75 Jupiter radii from the planet, the interaction of the magnetosphere with the solar wind generates a bow shock.
+
+Surrounding Jupiter's magnetosphere is a magnetopause, located at the inner edge of a magnetosheath—a region between it and the bow shock.
+
+The solar wind interacts with these regions, elongating the magnetosphere on Jupiter's lee side and extending it outward until it nearly reaches the orbit of Saturn.
+
+The four largest moons of Jupiter all orbit within the magnetosphere, which protects them from the solar wind.
+
+
+
+The magnetosphere of Jupiter is responsible for intense episodes of radio emission from the planet's polar regions.
+
+Volcanic activity on the Jovian moon Io (see below) injects gas into Jupiter's magnetosphere, producing a torus of particles about the planet.
+
+As Io moves through this torus, the interaction generates Alfvén waves that carry ionized matter into the polar regions of Jupiter.
+
+As a result, radio waves are generated through a cyclotron maser mechanism, and the energy is transmitted out along a cone-shaped surface.
+
+When the Earth intersects this cone, the radio emissions from Jupiter can exceed the solar radio output.
+
+
+
+Jupiter is the only planet that has a barycenter with the Sun that lies outside the volume of the Sun, though by only 7% of the Sun's radius.
+
+The average distance between Jupiter and the Sun is 778 million km (about 5.2 times the average distance from the Earth to the Sun, or 5.2 AU) and it completes an orbit every 11.86 years.
+
+This is two-fifths the orbital period of Saturn, forming a 5:2 orbital resonance between the two largest planets in the Solar System.
+
+The elliptical orbit of Jupiter is inclined 1.31° compared to the Earth.
+
+Because of an eccentricity of 0.048, the distance from Jupiter and the Sun varies by 75 million km between perihelion and aphelion, or the nearest and most distant points of the planet along the orbital path respectively.
+
+
+
+The axial tilt of Jupiter is relatively small: only 3.13°.
+
+As a result, it does not experience significant seasonal changes, in contrast to, for example, Earth and Mars.
+
+
+
+Jupiter's rotation is the fastest of all the Solar System's planets, completing a rotation on its axis in slightly less than ten hours; this creates an equatorial bulge easily seen through an Earth-based amateur telescope.
+
+The planet is shaped as an oblate spheroid, meaning that the diameter across its equator is longer than the diameter measured between its poles.
+
+On Jupiter, the equatorial diameter is 9,275 km (5,763 mi) longer than the diameter measured through the poles.
+
+
+Because Jupiter is not a solid body, its upper atmosphere undergoes differential rotation.
+
+The rotation of Jupiter's polar atmosphere is about 5 minutes longer than that of the equatorial atmosphere; three systems are used as frames of reference, particularly when graphing the motion of atmospheric features.
+
+System I applies from the latitudes 10° N to 10° S; its period is the planet's shortest, at 9h 50m 30.0s.
+
+System II applies at all latitudes north and south of these; its period is 9h 55m 40.6s.
+
+System III was first defined by radio astronomers, and corresponds to the rotation of the planet's magnetosphere; its period is Jupiter's official rotation.
+
+
+
+Jupiter is usually the fourth brightest object in the sky (after the Sun, the Moon and Venus);[48] at times Mars appears brighter than Jupiter.
+
+Depending on Jupiter's position with respect to the Earth, it can vary in visual magnitude from as bright as −2.9 at opposition down to −1.6 during conjunction with the Sun.
+
+The angular diameter of Jupiter likewise varies from 50.1 to 29.8 arc seconds.
+
+Favorable oppositions occur when Jupiter is passing through perihelion, an event that occurs once per orbit.
+
+As Jupiter approached perihelion in March 2011, there was a favorable opposition in September 2010.
+
+
+
+Earth overtakes Jupiter every 398.9 days as it orbits the Sun, a duration called the synodic period.
+
+As it does so, Jupiter appears to undergo retrograde motion with respect to the background stars.
+
+That is, for a period Jupiter seems to move backward in the night sky, performing a looping motion.
+
+
+Jupiter's 12-year orbital period corresponds to the dozen astrological signs of the zodiac, and may have been the historical origin of the signs.
+
+That is, each time Jupiter reaches opposition it has advanced eastward by about 30°, the width of a zodiac sign.
+
+
+
+Because the orbit of Jupiter is outside the Earth's, the phase angle of Jupiter as viewed from the Earth never exceeds 11.5°.
+
+That is, the planet always appears nearly fully illuminated when viewed through Earth-based telescopes.
+
+It was only during spacecraft missions to Jupiter that crescent views of the planet were obtained.
+
+A small telescope will usually show Jupiter's four Galilean moons and the prominent cloud belts across Jupiter's atmosphere.
+
+A large telescope will show Jupiter's Great Red Spot when it faces the Earth.
+
+
+
+The observation of Jupiter dates back to the Babylonian astronomers of the 7th or 8th century BC.
+
+The Chinese historian of astronomy, Xi Zezong, has claimed that Gan De, a Chinese astronomer, made the discovery of one of Jupiter's moons in 362 BC with the unaided eye.
+
+If accurate, this would predate Galileo's discovery by nearly two millennia.
+
+In his 2nd century work the Almagest, the Hellenistic astronomer Claudius Ptolemaeus constructed a geocentric planetary model based on deferents and epicycles to explain Jupiter's motion relative to the Earth, giving its orbital period around the Earth as 4332.38 days, or 11.86 years.
+
+In 499, Aryabhata, a mathematician–astronomer from the classical age of Indian mathematics and astronomy, also used a geocentric model to estimate Jupiter's period as 4332.2722 days, or 11.86 years.
+
+
+
+In 1610, Galileo Galilei discovered the four largest moons of Jupiter—Io, Europa, Ganymede and Callisto (now known as the Galilean moons)—using a telescope; thought to be the first telescopic observation of moons other than Earth's.
+
+Galileo's was also the first discovery of a celestial motion not apparently centered on the Earth.
+
+It was a major point in favor of Copernicus' heliocentric theory of the motions of the planets; Galileo's outspoken support of the Copernican theory placed him under the threat of the Inquisition.
+
+
+
+
+During the 1660s, Cassini used a new telescope to discover spots and colorful bands on Jupiter and observed that the planet appeared oblate; that is, flattened at the poles.
+
+He was also able to estimate the rotation period of the planet.
+
+In 1690 Cassini noticed that the atmosphere undergoes differential rotation.
+
+
+
+The Great Red Spot, a prominent oval-shaped feature in the southern hemisphere of Jupiter, may have been observed as early as 1664 by Robert Hooke and in 1665 by Giovanni Cassini, although this is disputed.
+
+The pharmacist Heinrich Schwabe produced the earliest known drawing to show details of the Great Red Spot in 1831.
+
+
+
+The Red Spot was reportedly lost from sight on several occasions between 1665 and 1708 before becoming quite conspicuous in 1878.
+
+It was recorded as fading again in 1883 and at the start of the 20th century.
+
+
+
+Both Giovanni Borelli and Cassini made careful tables of the motions of the Jovian moons, allowing predictions of the times when the moons would pass before or behind the planet.
+
+By the 1670s, it was observed that when Jupiter was on the opposite side of the Sun from the Earth, these events would occur about 17 minutes later than expected.
+
+Ole Rømer deduced that sight is not instantaneous (a conclusion that Cassini had earlier rejected),[18] and this timing discrepancy was used to estimate the speed of light.
+
+
+
+In 1892, E. E. Barnard observed a fifth satellite of Jupiter with the 36-inch (910 mm) refractor at Lick Observatory in California.
+
+The discovery of this relatively small object, a testament to his keen eyesight, quickly made him famous.
+
+This moon was later named Amalthea.
+
+It was the last planetary moon to be discovered directly by visual observation.
+
+An additional eight satellites were discovered before the flyby of the Voyager 1 probe in 1979.
+
+
+
+In 1932, Rupert Wildt identified absorption bands of ammonia and methane in the spectra of Jupiter.
+
+
+
+Three long-lived anticyclonic features termed white ovals were observed in 1938.
+
+For several decades they remained as separate features in the atmosphere, sometimes approaching each other but never merging.
+
+Finally, two of the ovals merged in 1998, then absorbed the third in 2000, becoming Oval BA.
+
+
+
+In 1955, Bernard Burke and Kenneth Franklin detected bursts of radio signals coming from Jupiter at 22.2 MHz.
+
+The period of these bursts matched the rotation of the planet, and they were also able to use this information to refine the rotation rate.
+
+Radio bursts from Jupiter were found to come in two forms: long bursts (or L-bursts) lasting up to several seconds, and short bursts (or S-bursts) that had a duration of less than a hundredth of a second.
+
+
+
+Scientists discovered that there were three forms of radio signals transmitted from Jupiter.
+
+
+
+Decametric radio bursts (with a wavelength of tens of meters) vary with the rotation of Jupiter, and are influenced by interaction of Io with Jupiter's magnetic field.
+
+
+
+Decimetric radio emission (with wavelengths measured in centimeters) was first observed by Frank Drake and Hein Hvatum in 1959.
+
+The origin of this signal was from a torus-shaped belt around Jupiter's equator.
+
+This signal is caused by cyclotron radiation from electrons that are accelerated in Jupiter's magnetic field.
+
+
+
+Thermal radiation is produced by heat in the atmosphere of Jupiter.
+
+
+
+Since 1973 a number of automated spacecraft have visited Jupiter, most notably the Pioneer 10 space probe, the first spacecraft to get close enough to Jupiter to send back revelations about the properties and phenomena of the Solar System's largest planet.
+
+Flights to other planets within the Solar System are accomplished at a cost in energy, which is described by the net change in velocity of the spacecraft, or delta-v.
+
+Entering a Hohmann transfer orbit from Earth to Jupiter from low Earth orbit requires a delta-v of 6.3 km/s which is comparable to the 9.7 km/s delta-v needed to reach low Earth orbit.
+
+Fortunately, gravity assists through planetary flybys can be used to reduce the energy required to reach Jupiter, albeit at the cost of a significantly longer flight duration.
+
+
+
+Beginning in 1973, several spacecraft have performed planetary flyby maneuvers that brought them within observation range of Jupiter.
+
+The Pioneer missions obtained the first close-up images of Jupiter's atmosphere and several of its moons.
+
+They discovered that the radiation fields near the planet were much stronger than expected, but both spacecraft managed to survive in that environment.
+
+The trajectories of these spacecraft were used to refine the mass estimates of the Jovian system.
+
+Radio occultations by the planet resulted in better measurements of Jupiter's diameter and the amount of polar flattening.
+
+
+
+Six years later, the Voyager missions vastly improved the understanding of the Galilean moons and discovered Jupiter's rings.
+
+They also confirmed that the Great Red Spot was anticyclonic.
+
+Comparison of images showed that the Red Spot had changed hue since the Pioneer missions, turning from orange to dark brown.
+
+A torus of ionized atoms was discovered along Io's orbital path, and volcanoes were found on the moon's surface, some in the process of erupting.
+
+As the spacecraft passed behind the planet, it observed flashes of lightning in the night side atmosphere.
+
+
+
+The next mission to encounter Jupiter, the Ulysses solar probe, performed a flyby maneuver to attain a polar orbit around the Sun.
+
+During this pass the spacecraft conducted studies on Jupiter's magnetosphere.
+
+Since Ulysses has no cameras, no images were taken.
+
+A second flyby six years later was at a much greater distance.
+
+
+
+In 2000, the Cassini probe, en route to Saturn, flew by Jupiter and provided some of the highest-resolution images ever made of the planet.
+
+On December 19, 2000, the spacecraft captured an image of the moon Himalia, but the resolution was too low to show surface details.
+
+
+
+The New Horizons probe, en route to Pluto, flew by Jupiter for gravity assist.
+
+Its closest approach was on February 28, 2007.
+
+The probe's cameras measured plasma output from volcanoes on Io and studied all four Galilean moons in detail, as well as making long-distance observations of the outer moons Himalia and Elara.
+
+Imaging of the Jovian system began September 4, 2006.
+
+
+
+So far the only spacecraft to orbit Jupiter is the Galileo orbiter, which went into orbit around Jupiter on December 7, 1995.
+
+It orbited the planet for over seven years, conducting multiple flybys of all the Galilean moons and Amalthea.
+
+The spacecraft also witnessed the impact of Comet Shoemaker–Levy 9 as it approached Jupiter in 1994, giving a unique vantage point for the event.
+
+While the information gained about the Jovian system from Galileo was extensive, its originally designed capacity was limited by the failed deployment of its high-gain radio transmitting antenna.
+
+
+
+A 340-kilogram titanium atmospheric probe was released from the spacecraft in July 1995, entering Jupiter's atmosphere on December 7.
+
+It parachuted through 150 km (93 mi) of the atmosphere at speed of about 2,575 km/h (1600 mph)[28] and collected data for 57.6 minutes before it was crushed by the pressure (about 23 times Earth normal, at a temperature of 153 °C).
+
+It would have melted thereafter, and possibly vaporized.
+
+The Galileo orbiter itself experienced a more rapid version of the same fate when it was deliberately steered into the planet on September 21, 2003, at a speed of over 50 km/s, to avoid any possibility of it crashing into and possibly contaminating Europa—a moon which has been hypothesized to have the possibility of harboring life.
+
+
+
+Data from this mission revealed that hydrogen composes up to 90% of Jupiter's atmosphere.
+
+The temperatures data recorded was more than 300 °C (>570 °F) and the windspeed measured more than 644 kmph (>400 mph) before the probes vapourised.
+
+
+
+NASA has a mission underway to study Jupiter in detail from a polar orbit.
+
+Named Juno, the spacecraft launched in August 2011, and will arrive in late 2016.
+
+The next planned mission to the Jovian system will be the European Space Agency's Jupiter Icy Moon Explorer (JUICE), due to launch in 2022,[106] followed by NASA's Europa Clipper mission in 2025.
+
+
+
+Because of the possibility of subsurface liquid oceans on Jupiter's moons Europa, Ganymede and Callisto, there has been great interest in studying the icy moons in detail.
+
+Funding difficulties have delayed progress.
+
+NASA's JIMO (Jupiter Icy Moons Orbiter) was cancelled in 2005.
+
+A subsequent proposal for a joint NASA/ESA mission, called EJSM/Laplace, was developed with a provisional launch date around 2020.
+
+EJSM/Laplace would have consisted of the NASA-led Jupiter Europa Orbiter, and the ESA-led Jupiter Ganymede Orbiter.
+
+However by April 2011, ESA had formally ended the partnership citing budget issues at NASA and the consequences on the mission timetable.
+
+Instead ESA planned to go ahead with a European-only mission to compete in its L1 Cosmic Vision selection.
+
+
+
+Jupiter has 67 natural satellites.
+
+Of these, 51 are less than 10 kilometres in diameter and have only been discovered since 1975.
+
+The four largest moons, visible from Earth with binoculars on a clear night, known as the "Galilean moons", are Io, Europa, Ganymede, and Callisto.
+
+
+
+The orbits of Io, Europa, and Ganymede, some of the largest satellites in the Solar System, form a pattern known as a Laplace resonance; for every four orbits that Io makes around Jupiter, Europa makes exactly two orbits and Ganymede makes exactly one.
+
+This resonance causes the gravitational effects of the three large moons to distort their orbits into elliptical shapes, since each moon receives an extra tug from its neighbors at the same point in every orbit it makes.
+
+The tidal force from Jupiter, on the other hand, works to circularize their orbits.
+
+
+
+The eccentricity of their orbits causes regular flexing of the three moons' shapes, with Jupiter's gravity stretching them out as they approach it and allowing them to spring back to more spherical shapes as they swing away.
+
+This tidal flexing heats the moons' interiors by friction.
+
+This is seen most dramatically in the extraordinary volcanic activity of innermost Io (which is subject to the strongest tidal forces), and to a lesser degree in the geological youth of Europa's surface (indicating recent resurfacing of the moon's exterior).
+
+
+
+Before the discoveries of the Voyager missions, Jupiter's moons were arranged neatly into four groups of four, based on commonality of their orbital elements.
+
+Since then, the large number of new small outer moons has complicated this picture.
+
+There are now thought to be six main groups, although some are more distinct than others.
+
+
+
+A basic sub-division is a grouping of the eight inner regular moons, which have nearly circular orbits near the plane of Jupiter's equator and are believed to have formed with Jupiter.
+
+The remainder of the moons consist of an unknown number of small irregular moons with elliptical and inclined orbits, which are believed to be captured asteroids or fragments of captured asteroids.
+
+Irregular moons that belong to a group share similar orbital elements and thus may have a common origin, perhaps as a larger moon or captured body that broke up.
+
+
+
+The inner group of four small moons all have diameters of less than 200 km, orbit at radii less than 200,000 km, and have orbital inclinations of less than half a degree.
+
+
+
+These four moons, discovered by Galileo Galilei and by Simon Marius in parallel, orbit between 400,000 and 2,000,000 km, and are some of the largest moons in the Solar System.
+
+
+
+This is a single moon belonging to a group of its own, orbiting halfway between the Galilean moons and the Himalia group.
+
+
+
+A tightly clustered group of moons with orbits around 11,000,000–12,000,000 km from Jupiter.
+
+
+
+Another isolated case; at the inner edge of the Ananke group, it orbits Jupiter in prograde direction.
+
+
+
+This retrograde orbit group has rather indistinct borders, averaging 21,276,000 km from Jupiter with an average inclination of 149 degrees.
+
+
+
+A fairly distinct retrograde group that averages 23,404,000 km from Jupiter with an average inclination of 165 degrees.
+
+
+
+A dispersed and only vaguely distinct retrograde group that covers all the outermost moons.
+
+
+
+Along with the Sun, the gravitational influence of Jupiter has helped shape the Solar System.
+
+The orbits of most of the system's planets lie closer to Jupiter's orbital plane than the Sun's equatorial plane (Mercury is the only planet that is closer to the Sun's equator in orbital tilt), the Kirkwood gaps in the asteroid belt are mostly caused by Jupiter, and the planet may have been responsible for the Late Heavy Bombardment of the inner Solar System's history.
+
+
+
+Along with its moons, Jupiter's gravitational field controls numerous asteroids that have settled into the regions of the Lagrangian points preceding and following Jupiter in its orbit around the Sun.
+
+These are known as the Trojan asteroids, and are divided into Greek and Trojan "camps" to commemorate the Iliad.
+
+The first of these, 588 Achilles, was discovered by Max Wolf in 1906; since then more than two thousand have been discovered.
+
+The largest is 624 Hektor.
+
+
+
+Most short-period comets belong to the Jupiter family—defined as comets with semi-major axes smaller than Jupiter's.
+
+Jupiter family comets are believed to form in the Kuiper belt outside the orbit of Neptune.
+
+During close encounters with Jupiter their orbits are perturbed into a smaller period and then circularized by regular gravitational interaction with the Sun and Jupiter.
+
+
+
+Jupiter has been called the Solar System's vacuum cleaner,[119] because of its immense gravity well and location near the inner Solar System.
+
+It receives the most frequent comet impacts of the Solar System's planets.
+
+It was thought that the planet served to partially shield the inner system from cometary bombardment.
+
+Recent computer simulations suggest that Jupiter does not cause a net decrease in the number of comets that pass through the inner Solar System, as its gravity perturbs their orbits inward in roughly the same numbers that it accretes or ejects them.
+
+This topic remains controversial among astronomers, as some believe it draws comets towards Earth from the Kuiper belt while others believe that Jupiter protects Earth from the alleged Oort cloud.
+
+Jupiter experiences about 200 times more asteroid and comet impacts than Earth.
+
+
+
+A 1997 survey of historical astronomical drawings suggested that the astronomer Cassini may have recorded an impact scar in 1690.
+
+The survey determined eight other candidate observations had low or no possibilities of an impact.
+
+A fireball was photographed by Voyager 1 during its Jupiter encounter in March 1979.
+
+During the period July 16, 1994, to July 22, 1994, over 20 fragments from the comet Shoemaker–Levy 9 (SL9, formally designated D/1993 F2) collided with Jupiter's southern hemisphere, providing the first direct observation of a collision between two Solar System objects.
+
+This impact provided useful data on the composition of Jupiter's atmosphere.
+
+
+
+On July 19, 2009, an impact site was discovered at approximately 216 degrees longitude in System 2.
+
+This impact left behind a black spot in Jupiter's atmosphere, similar in size to Oval BA.
+
+Infrared observation showed a bright spot where the impact took place, meaning the impact warmed up the lower atmosphere in the area near Jupiter's south pole.
+
+
+
+A fireball, smaller than the previous observed impacts, was detected on June 3, 2010, by Anthony Wesley, an amateur astronomer in Australia, and was later discovered to have been captured on video by another amateur astronomer in the Philippines.
+
+Yet another fireball was seen on August 20, 2010.
+
+
+
+On September 10, 2012, another fireball was detected.
+
+
+
+In 1953, the Miller–Urey experiment demonstrated that a combination of lightning and the chemical compounds that existed in the atmosphere of a primordial Earth could form organic compounds (including amino acids) that could serve as the building blocks of life.
+
+The simulated atmosphere included water, methane, ammonia, and molecular hydrogen; all molecules still found in Jupiter's atmosphere.
+
+Jupiter's atmosphere has a strong vertical air circulation, which would carry these compounds down into the lower regions.
+
+The higher temperatures within the interior of the atmosphere break down these chemicals, which would hinder the formation of Earth-like life.
+
+
+
+It is considered highly unlikely that there is any Earth-like life on Jupiter, because there is only a small amount of water in Jupiter's atmosphere and any possible solid surface deep within Jupiter would be under extreme pressures.
+
+In 1976, before the Voyager missions, it was hypothesized that ammonia- or water-based life could evolve in Jupiter's upper atmosphere.
+
+This hypothesis is based on the ecology of terrestrial seas, which have simple photosynthetic plankton at the top level, fish at lower levels feeding on these creatures, and marine predators that hunt the fish.
+
+
+
+The possible presence of underground oceans on some of Jupiter's moons has led to speculation that the presence of life is more likely there.
+
+
+
+The planet Jupiter has been known since ancient times.
+
+It is visible to the naked eye in the night sky and can occasionally be seen in the daytime when the Sun is low.
+
+To the Babylonians, this object represented their god Marduk.
+
+They used Jupiter's roughly 12-year orbit along the ecliptic to define the constellations of their zodiac.
+
+
+
+The Romans named it after Jupiter (Latin: Iuppiter, Iūpiter) (also called Jove), the principal god of Roman mythology, whose name comes from the Proto-Indo-European vocative compound *Dyēu-pəter (nominative: *Dyēus-pətēr, meaning "O Father Sky-God", or "O Father Day-God").
+
+In turn, Jupiter was the counterpart to the mythical Greek Zeus (Ζεύς), also referred to as Dias (Δίας), the planetary name of which is retained in modern Greek.
+
+
+
+The astronomical symbol for the planet, ♃, is a stylized representation of the god's lightning bolt.
+
+The original Greek deity Zeus supplies the root zeno-, used to form some Jupiter-related words, such as zenographic.
+
+
+
+Jovian is the adjectival form of Jupiter.
+
+The older adjectival form jovial, employed by astrologers in the Middle Ages, has come to mean "happy" or "merry," moods ascribed to Jupiter's astrological influence.
+
+
+
+The Chinese, Korean and Japanese referred to the planet as the "wood star" (Chinese: 木星; pinyin: mùxīng), based on the Chinese Five Elements.
+
+Chinese Taoism personified it as the Fu star.
+
+The Greeks called it Φαέθων, Phaethon, "blazing." In Vedic Astrology, Hindu astrologers named the planet after Brihaspati, the religious teacher of the gods, and often called it "Guru", which literally means the "Heavy One."
+
+
+
+In the English language, Thursday is derived from "Thor's day", with Thor in Germanic mythology being the equivalent Germanic god to the Roman god Jupiter (mythology).
+
+The Roman day Jovis was renamed Thursday.
+
+
+
+In the Central Asian-Turkic myths, Jupiter called as a "Erendiz/Erentüz", which means "eren(?)+yultuz(star)".
+
+There are many theories about meaning of "eren".
+
+Also, these peoples calculated the period of the orbit of Jupiter as 11 years and 300 days.
+
+They believed that some social and natural events connected to Erentüz's movements on the sky.
+
+
+
+
